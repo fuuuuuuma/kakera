@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { dayKey, hashIp, parseBeacon, isRequestFromAdmin } from '../src/worker/index.js';
+import { dayKey, hashIp, parseBeacon, isRequestFromAdmin, submitDepsFromEnv } from '../src/worker/index.js';
 
 describe('dayKey', () => {
   it('YYYY-MM-DD を返す', () => {
@@ -78,5 +78,48 @@ describe('isRequestFromAdmin', () => {
   it('トークンが不一致なら false', () => {
     const req = new Request('https://x.example', { headers: { 'x-admin-token': 'wrong' } });
     expect(isRequestFromAdmin(req, { ADMIN_TOKEN: 'secret' })).toBe(false);
+  });
+});
+
+describe('moderateImage (AIモデレーションの呼び出し)', () => {
+  // 2026-09-24 本番: 2048px の PNG (約1.6MB) で String.fromCharCode(...bytes) が
+  // 「Maximum call stack size exceeded」を投げ、AIを呼ぶ前に全件保留になっていた。
+  function envWithAi(run: (model: string, input: { image: number[] }) => Promise<unknown>) {
+    return { AI: { run } } as unknown as Parameters<typeof submitDepsFromEnv>[0];
+  }
+
+  it('実物大の画像でも例外にならず、縮めた画像を AI に渡す', async () => {
+    const { default: sharp } = await import('sharp');
+    const bytes = new Uint8Array(await sharp({
+      create: { width: 2048, height: 2048, channels: 3, background: '#d0c0a0' },
+    }).png({ compressionLevel: 0 }).toBuffer());
+    let seen = 0;
+    const deps = submitDepsFromEnv(envWithAi(async (_model, input) => {
+      seen = input.image.length;
+      return { description: 'No.' };
+    }));
+    const r = await deps.moderateImage(bytes, 'image/png');
+    expect(seen).toBeGreaterThan(0);
+    expect(seen).toBeLessThan(bytes.length / 10);
+    expect(r.flagged).toBe(false);
+  });
+
+  it('画像として読めなければ AI を呼ばずに保留する', async () => {
+    let called = false;
+    const deps = submitDepsFromEnv(envWithAi(async () => { called = true; return { description: 'No.' }; }));
+    const r = await deps.moderateImage(new Uint8Array(64).fill(7), 'image/png');
+    expect(called).toBe(false);
+    expect(r.flagged).toBe(true);
+  });
+
+  it('AI が yes / unsure / 空なら保留する', async () => {
+    const { default: sharp } = await import('sharp');
+    const bytes = new Uint8Array(await sharp({
+      create: { width: 64, height: 64, channels: 3, background: '#ffffff' },
+    }).png().toBuffer());
+    for (const description of ['Yes.', 'unsure', '']) {
+      const deps = submitDepsFromEnv(envWithAi(async () => ({ description })));
+      expect((await deps.moderateImage(bytes, 'image/png')).flagged).toBe(true);
+    }
   });
 });

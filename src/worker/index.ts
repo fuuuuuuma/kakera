@@ -14,6 +14,7 @@
  * **Workers Cache を有効にしないこと。** 有効にすると、通常は無料の静的アセットの
  * リクエストまで課金対象に変わる（Cloudflare 公式に明記）。
  */
+import { shrinkForModeration } from './moderation-image.js';
 import {
   handleSubmit,
   handleReport,
@@ -107,7 +108,7 @@ function html(body: string, status: number): Response {
 
 /** 実際の D1/R2/AI/fetch への橋渡し。テストは SubmitDeps を直接偽物で渡すので
  * この関数自体はユニットテストしていない (統合の配線でしかない)。 */
-function submitDepsFromEnv(env: Env): SubmitDeps {
+export function submitDepsFromEnv(env: Env): SubmitDeps {
   return {
     now: () => new Date(),
     randomId: () => crypto.randomUUID(),
@@ -149,16 +150,20 @@ function submitDepsFromEnv(env: Env): SubmitDeps {
       // モデル選定・精度は実機未検証 (docs/design-...-phase2 §1.1-6 参照)。
       // 判定できない・エラー時は安全側 (flagged=true で保留) に倒す。
       try {
-        const b64 = btoa(String.fromCharCode(...bytes));
+        // 2026-09-24: 以前は btoa(String.fromCharCode(...bytes)) で長さを記録していたが、
+        // 引数の展開は数十万要素でスタックがあふれ、2048px の PNG では AI を呼ぶ前に
+        // 全件保留になっていた。記録にはバイト数だけを使う。
+        // 2048px のまま渡すと AI 側で時間切れになる (moderation-image.ts 参照)。
+        const small = shrinkForModeration(bytes);
         const result = (await env.AI.run('@cf/llava-hf/llava-1.5-7b-hf', {
-          image: [...bytes],
+          image: [...small],
           prompt:
             'Does this image contain sexual content, graphic violence, or a photorealistic depiction of a real person? Answer only "yes", "no", or "unsure".',
           max_tokens: 8,
         })) as { description?: string };
         const answer = (result.description || '').toLowerCase();
         const flagged = !answer.includes('no') || answer.includes('yes') || answer.includes('unsure');
-        return { flagged, detail: `AI応答: ${answer || '(空)'} mime=${mime} bytes=${b64.length}` };
+        return { flagged, detail: `AI応答: ${answer || '(空)'} mime=${mime} bytes=${bytes.length} 判定用=${small.length}` };
       } catch (e) {
         return { flagged: true, detail: `モデレーション呼び出しに失敗したため保留: ${e instanceof Error ? e.message : String(e)}` };
       }
