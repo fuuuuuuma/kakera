@@ -1,0 +1,9 @@
+node_modules/
+series/*/pieces/
+series/*/variants/
+dist/
+*.log
+worker-configuration.d.ts
+.wrangler/
+.akari/
+.playwright-cli/

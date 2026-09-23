@@ -1,0 +1,92 @@
+{
+  "slug": "fabric-folds",
+  "title": "布のひだ",
+  "description": "深い青灰色のマットサテンを寄りで捉えた、落ち着いた布背景。柔らかなひだと控えめな光沢で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "左上から布面をなぞる大きなソフトボックス",
+    "colorTemp": "4400Kのニュートラル寄り寒色",
+    "framing": "布が画面全体を満たす地平線のない接写",
+    "texture": "マットサテンの織り、柔らかなひだ、控えめな光沢"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "fabric-folds-01",
+      "kind": "still",
+      "file": "pieces/fabric-folds-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: tactile 16:9 fabric background for video editing and thumbnails\nPrimary request: deep slate-blue matte satin fabric arranged in broad diagonal folds flowing from upper left to lower right\nScene/backdrop: full-frame fabric surface with no visible floor or edges\nStyle/medium: premium textile still-life photography, photorealistic\nComposition/framing: wide close-up, folds fill the 16:9 frame, one quiet flat area near the upper right, no horizon\nLighting/mood: one large softbox from upper left at a grazing angle, controlled highlights, quiet and refined\nColor palette: deep slate blue, muted steel-blue highlights, charcoal-blue shadows\nMaterials/textures: matte satin weave, realistic soft folds, restrained sheen, fine textile grain\nConstraints: consistent 4400K neutral-cool color temperature, fold highlights remain soft, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, clothing, garments, furniture, pins, seams, labels, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, wet liquid appearance, plastic shine, crushed black shadows"
+    },
+    {
+      "id": "fabric-folds-02",
+      "kind": "still",
+      "file": "pieces/fabric-folds-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: tactile 16:9 fabric background for video editing and thumbnails\nPrimary request: deep slate-blue matte satin fabric arranged in soft parallel vertical drapes\nScene/backdrop: full-frame fabric surface with no visible floor or edges\nStyle/medium: premium textile still-life photography, photorealistic\nComposition/framing: wide close-up, folds fill the 16:9 frame, rhythm slightly weighted to the left, no horizon\nLighting/mood: one large softbox from upper left at a grazing angle, controlled highlights, quiet and refined\nColor palette: deep slate blue, muted steel-blue highlights, charcoal-blue shadows\nMaterials/textures: matte satin weave, realistic soft folds, restrained sheen, fine textile grain\nConstraints: consistent 4400K neutral-cool color temperature, fold highlights remain soft, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, clothing, garments, furniture, pins, seams, labels, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, wet liquid appearance, plastic shine, crushed black shadows"
+    },
+    {
+      "id": "fabric-folds-03",
+      "kind": "still",
+      "file": "pieces/fabric-folds-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: tactile 16:9 fabric background for video editing and thumbnails\nPrimary request: deep slate-blue matte satin fabric gathered into a gentle central swirl without a knot\nScene/backdrop: full-frame fabric surface with no visible floor or edges\nStyle/medium: premium textile still-life photography, photorealistic\nComposition/framing: wide close-up, folds fill the 16:9 frame, open shallow basin near the center, no horizon\nLighting/mood: one large softbox from upper left at a grazing angle, controlled highlights, quiet and refined\nColor palette: deep slate blue, muted steel-blue highlights, charcoal-blue shadows\nMaterials/textures: matte satin weave, realistic soft folds, restrained sheen, fine textile grain\nConstraints: consistent 4400K neutral-cool color temperature, fold highlights remain soft, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, clothing, garments, furniture, pins, seams, labels, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, wet liquid appearance, plastic shine, crushed black shadows"
+    },
+    {
+      "id": "fabric-folds-04",
+      "kind": "still",
+      "file": "pieces/fabric-folds-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: tactile 16:9 fabric background for video editing and thumbnails\nPrimary request: deep slate-blue matte satin fabric forming a low rolling fold across the bottom third\nScene/backdrop: full-frame fabric surface with no visible floor or edges\nStyle/medium: premium textile still-life photography, photorealistic\nComposition/framing: wide close-up, folds fill the 16:9 frame, calm nearly flat upper half, no horizon\nLighting/mood: one large softbox from upper left at a grazing angle, controlled highlights, quiet and refined\nColor palette: deep slate blue, muted steel-blue highlights, charcoal-blue shadows\nMaterials/textures: matte satin weave, realistic soft folds, restrained sheen, fine textile grain\nConstraints: consistent 4400K neutral-cool color temperature, fold highlights remain soft, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, clothing, garments, furniture, pins, seams, labels, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, wet liquid appearance, plastic shine, crushed black shadows"
+    },
+    {
+      "id": "fabric-folds-05",
+      "kind": "still",
+      "file": "pieces/fabric-folds-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: tactile 16:9 fabric background for video editing and thumbnails\nPrimary request: deep slate-blue matte satin fabric arranged in two intersecting sweeping folds\nScene/backdrop: full-frame fabric surface with no visible floor or edges\nStyle/medium: premium textile still-life photography, photorealistic\nComposition/framing: wide close-up, folds fill the 16:9 frame, intersection on the right third and calmer left side, no horizon\nLighting/mood: one large softbox from upper left at a grazing angle, controlled highlights, quiet and refined\nColor palette: deep slate blue, muted steel-blue highlights, charcoal-blue shadows\nMaterials/textures: matte satin weave, realistic soft folds, restrained sheen, fine textile grain\nConstraints: consistent 4400K neutral-cool color temperature, fold highlights remain soft, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, clothing, garments, furniture, pins, seams, labels, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, wet liquid appearance, plastic shine, crushed black shadows"
+    },
+    {
+      "id": "fabric-folds-06",
+      "kind": "still",
+      "file": "pieces/fabric-folds-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: tactile 16:9 fabric background for video editing and thumbnails\nPrimary request: deep slate-blue matte satin fabric with fine rippling folds moving horizontally across the frame\nScene/backdrop: full-frame fabric surface with no visible floor or edges\nStyle/medium: premium textile still-life photography, photorealistic\nComposition/framing: wide close-up, folds fill the 16:9 frame, subtle even rhythm with no focal object, no horizon\nLighting/mood: one large softbox from upper left at a grazing angle, controlled highlights, quiet and refined\nColor palette: deep slate blue, muted steel-blue highlights, charcoal-blue shadows\nMaterials/textures: matte satin weave, realistic soft folds, restrained sheen, fine textile grain\nConstraints: consistent 4400K neutral-cool color temperature, fold highlights remain soft, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, clothing, garments, furniture, pins, seams, labels, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, wet liquid appearance, plastic shine, crushed black shadows"
+    }
+  ]
+}
+

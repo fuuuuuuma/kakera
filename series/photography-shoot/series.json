@@ -1,0 +1,115 @@
+{
+  "slug": "photography-shoot",
+  "title": "写真撮影の現場",
+  "description": "写真撮影の現場について、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "自然光と控えめな機材光",
+    "colorTemp": "4200〜5000Kの中立光",
+    "framing": "16:9。制作環境、単独、共同、チーム、操作の寄りを網羅",
+    "texture": "肌、機材、金属、樹脂、木、吸音材の実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "photography-shoot-01",
+      "kind": "still",
+      "file": "pieces/photography-shoot-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "テクノロジー・制作",
+        "写真",
+        "撮影",
+        "カメラ",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA テクノロジー・制作 stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a generic studio and simple location setup. Exactly zero people. Generic props clearly suggest composing and photographing an original subject, with generous clean negative space.\nStyle: photorealistic modern creator and technology editorial photography, practical, precise and unbranded.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: balanced daylight with restrained cyan or warm equipment practical lights.\nPalette: charcoal, muted cyan, warm amber, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "photography-shoot-02",
+      "kind": "still",
+      "file": "pieces/photography-shoot-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "テクノロジー・制作",
+        "写真",
+        "撮影",
+        "カメラ",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA テクノロジー・制作 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional photographers, assistants and fictional models. Show that single person preparing for, pausing during, or reflecting after composing and photographing an original subject, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a generic studio and simple location setup. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic modern creator and technology editorial photography, practical, precise and unbranded.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: balanced daylight with restrained cyan or warm equipment practical lights.\nPalette: charcoal, muted cyan, warm amber, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "photography-shoot-03",
+      "kind": "still",
+      "file": "pieces/photography-shoot-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "テクノロジー・制作",
+        "写真",
+        "撮影",
+        "カメラ",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA テクノロジー・制作 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional photographers, assistants and fictional models. Show that single person preparing for, pausing during, or reflecting after composing and photographing an original subject, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a generic studio and simple location setup. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic modern creator and technology editorial photography, practical, precise and unbranded.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: balanced daylight with restrained cyan or warm equipment practical lights.\nPalette: charcoal, muted cyan, warm amber, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "photography-shoot-04",
+      "kind": "still",
+      "file": "pieces/photography-shoot-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "テクノロジー・制作",
+        "写真",
+        "撮影",
+        "カメラ",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA テクノロジー・制作 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional photographers, assistants and fictional models. Show a credible interaction while composing and photographing an original subject, with separated bodies and natural eye lines in a generic studio and simple location setup.\nStyle: photorealistic modern creator and technology editorial photography, practical, precise and unbranded.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: balanced daylight with restrained cyan or warm equipment practical lights.\nPalette: charcoal, muted cyan, warm amber, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "photography-shoot-05",
+      "kind": "still",
+      "file": "pieces/photography-shoot-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "テクノロジー・制作",
+        "写真",
+        "撮影",
+        "カメラ",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA テクノロジー・制作 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional photographers, assistants and fictional models. Each person does a believable part of composing and photographing an original subject, in a wide environmental view of a generic studio and simple location setup.\nStyle: photorealistic modern creator and technology editorial photography, practical, precise and unbranded.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: balanced daylight with restrained cyan or warm equipment practical lights.\nPalette: charcoal, muted cyan, warm amber, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "photography-shoot-06",
+      "kind": "still",
+      "file": "pieces/photography-shoot-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "テクノロジー・制作",
+        "写真",
+        "撮影",
+        "カメラ",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA テクノロジー・制作 stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in composing and photographing an original subject, with physically plausible contact in a generic studio and simple location setup. Avoid a full face.\nStyle: photorealistic modern creator and technology editorial photography, practical, precise and unbranded.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: balanced daylight with restrained cyan or warm equipment practical lights.\nPalette: charcoal, muted cyan, warm amber, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

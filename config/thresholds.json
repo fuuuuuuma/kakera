@@ -1,0 +1,21 @@
+{
+  "_note": "実測して決める値。null は「測るだけで弾かない」。測った条件（対象・件数・日付）を必ず添える。",
+  "toneMaxDistance": {
+    "value": null,
+    "measuredOn": "2026-08-20",
+    "sampleSize": 6,
+    "condition": "value はまだ決めない。1シリーズだけで決めると母数が増えたときに外す。実測(2026-08-20): night-desk 6点(実写風・暗いシーン・soul_location) = 0.1865〜0.4995 / 平均0.3402。合成画像では揃った3点が0.027〜0.264だったので、実素材とは分布が別物。目視ではこの6点は明確に揃っており、0.4995の1点も色調は問題ない。→ 明るいシリーズを2〜3本測ってから決める。暫定の目安は 0.55。"
+  },
+  "loopFirstLastRms": {
+    "value": null,
+    "measuredOn": null,
+    "sampleSize": 0,
+    "condition": "未計測"
+  },
+  "audioMaxVolumeDb": {
+    "value": -0.1,
+    "measuredOn": "2026-08-20",
+    "sampleSize": 0,
+    "condition": "0dBFS 張り付きの検出。実測ではなく仕様上の上限なので、素材が増えても変えない"
+  }
+}

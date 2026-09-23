@@ -1,0 +1,12 @@
+{
+  "_note": "公開先の確定値。JSON-LD やビルドはここを読む (loadSiteConfig が読むのは siteUrl / assetBaseUrl だけ)。ドメインを移すときはここだけ直す。",
+  "siteUrl": "https://kakera.fuuuuuuma.dev",
+  "assetBaseUrl": "https://assets.fuuuuuuma.dev",
+  "r2": {
+    "bucket": "kakera-assets",
+    "zone": "fuuuuuuma.dev",
+    "customDomain": "assets.fuuuuuuma.dev",
+    "minTls": "1.2",
+    "note": "r2.dev は Cloudflare 公式が rate-limited / development purposes only と明言しているので使わない。キャッシュも効かない"
+  }
+}

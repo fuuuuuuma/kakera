@@ -1,0 +1,24 @@
+{
+  "_note": "tools/submit-series.ts に渡すメタデータJSONの見本。CONTRIBUTING.md の「Codexで生成してそのまま投稿する」節を参照。このファイル自体はコピーして使う（このままでは投稿できません）。",
+  "slug": "night-office-desk",
+  "title": "夜のオフィス街デスク",
+  "description": "落ち着いた夜のオフィス街を背景にしたデスク周りの切り抜き素材。編集・サムネ用。",
+  "tone": {
+    "light": "夜・窓外の街灯り",
+    "colorTemp": "寒色（2700K〜3500K程度の混在は避ける）",
+    "framing": "デスク周りを中心にした引き気味の構図",
+    "texture": "マット・粒子感は控えめ"
+  },
+  "creatorHandle": "@your_name",
+  "generatorDeclared": {
+    "service": "openai-imagegen",
+    "model": "codex-cli",
+    "version": "0.154.0"
+  },
+  "prompt": "A calm office desk at night, city lights softly blurred through the window behind, cool color temperature, matte texture, no people, no text, no logos, 2048px long edge",
+  "alpha": false,
+  "consent": {
+    "termsVersion": "2026-09-23",
+    "licenseVersion": "kakera-free-v1"
+  }
+}

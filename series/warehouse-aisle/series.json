@@ -1,0 +1,91 @@
+{
+  "slug": "warehouse-aisle",
+  "title": "倉庫の通路",
+  "description": "棚、箱、パレット、コンベアを、白色灯の奥行きある構図で統一した物流Bロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "天井の白色灯による均一な照明",
+    "colorTemp": "4800K前後の中立光",
+    "framing": "28mm目線。棚の反復と奥行き",
+    "texture": "段ボール、金属棚、木製パレット、ゴム"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "warehouse-aisle-01",
+      "kind": "still",
+      "file": "pieces/warehouse-aisle-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "物流"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a symmetrical aisle between tall shelves filled with plain boxes\nScene/backdrop: a clean organized warehouse with generic unbranded boxes and no people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 28mm lens, deep symmetrical perspective\nLighting/mood: bright neutral warehouse lighting with controlled shadows\nColor palette: kraft brown, steel grey, safety orange, concrete\nMaterials/textures: corrugated boxes, galvanized shelving, wood pallets, rubber conveyor belts\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "warehouse-aisle-02",
+      "kind": "still",
+      "file": "pieces/warehouse-aisle-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "物流"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: neatly stacked wooden pallets beside wrapped unbranded cartons\nScene/backdrop: a clean organized warehouse with generic unbranded boxes and no people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 28mm lens, deep symmetrical perspective\nLighting/mood: bright neutral warehouse lighting with controlled shadows\nColor palette: kraft brown, steel grey, safety orange, concrete\nMaterials/textures: corrugated boxes, galvanized shelving, wood pallets, rubber conveyor belts\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "warehouse-aisle-03",
+      "kind": "still",
+      "file": "pieces/warehouse-aisle-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "物流"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an empty conveyor belt carrying several plain sealed parcels\nScene/backdrop: a clean organized warehouse with generic unbranded boxes and no people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 28mm lens, deep symmetrical perspective\nLighting/mood: bright neutral warehouse lighting with controlled shadows\nColor palette: kraft brown, steel grey, safety orange, concrete\nMaterials/textures: corrugated boxes, galvanized shelving, wood pallets, rubber conveyor belts\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "warehouse-aisle-04",
+      "kind": "still",
+      "file": "pieces/warehouse-aisle-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "物流"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a parked generic forklift beside organized shelving with no driver\nScene/backdrop: a clean organized warehouse with generic unbranded boxes and no people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 28mm lens, deep symmetrical perspective\nLighting/mood: bright neutral warehouse lighting with controlled shadows\nColor palette: kraft brown, steel grey, safety orange, concrete\nMaterials/textures: corrugated boxes, galvanized shelving, wood pallets, rubber conveyor belts\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "warehouse-aisle-05",
+      "kind": "still",
+      "file": "pieces/warehouse-aisle-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "物流"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a wide loading dock with closed doors and numbered areas omitted\nScene/backdrop: a clean organized warehouse with generic unbranded boxes and no people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 28mm lens, deep symmetrical perspective\nLighting/mood: bright neutral warehouse lighting with controlled shadows\nColor palette: kraft brown, steel grey, safety orange, concrete\nMaterials/textures: corrugated boxes, galvanized shelving, wood pallets, rubber conveyor belts\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "warehouse-aisle-06",
+      "kind": "still",
+      "file": "pieces/warehouse-aisle-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "物流"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a close perspective along repeating box edges and metal shelf beams\nScene/backdrop: a clean organized warehouse with generic unbranded boxes and no people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 28mm lens, deep symmetrical perspective\nLighting/mood: bright neutral warehouse lighting with controlled shadows\nColor palette: kraft brown, steel grey, safety orange, concrete\nMaterials/textures: corrugated boxes, galvanized shelving, wood pallets, rubber conveyor belts\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

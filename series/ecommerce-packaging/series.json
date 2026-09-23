@@ -1,0 +1,91 @@
+{
+  "slug": "ecommerce-packaging",
+  "title": "EC梱包",
+  "description": "無地の箱、薄紙、緩衝材、テープを、明るい作業台で統一したEC・物流向け素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "明るい窓光の拡散光",
+    "colorTemp": "4200K前後の自然光",
+    "framing": "斜め上からの作業台。余白を広く取る",
+    "texture": "段ボール、薄紙、紙テープ、木の天板"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "ecommerce-packaging-01",
+      "kind": "still",
+      "file": "pieces/ecommerce-packaging-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "EC"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an open kraft shipping box lined with folded off-white tissue paper\nScene/backdrop: a clean small-business packing table with generic unbranded materials and no people\nStyle/medium: bright realistic commercial editorial photography\nComposition/framing: wide 16:9 landscape, slightly overhead view, simple usable arrangement\nLighting/mood: soft diffused daylight with light warm shadows\nColor palette: kraft brown, off-white, pale beige, muted sage\nMaterials/textures: corrugated cardboard, tissue paper, paper tape, wood table\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "ecommerce-packaging-02",
+      "kind": "still",
+      "file": "pieces/ecommerce-packaging-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "EC"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: three different sizes of plain sealed cardboard boxes arranged neatly\nScene/backdrop: a clean small-business packing table with generic unbranded materials and no people\nStyle/medium: bright realistic commercial editorial photography\nComposition/framing: wide 16:9 landscape, slightly overhead view, simple usable arrangement\nLighting/mood: soft diffused daylight with light warm shadows\nColor palette: kraft brown, off-white, pale beige, muted sage\nMaterials/textures: corrugated cardboard, tissue paper, paper tape, wood table\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "ecommerce-packaging-03",
+      "kind": "still",
+      "file": "pieces/ecommerce-packaging-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "EC"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: paper tape, twine, and a blank shipping label beside a small box\nScene/backdrop: a clean small-business packing table with generic unbranded materials and no people\nStyle/medium: bright realistic commercial editorial photography\nComposition/framing: wide 16:9 landscape, slightly overhead view, simple usable arrangement\nLighting/mood: soft diffused daylight with light warm shadows\nColor palette: kraft brown, off-white, pale beige, muted sage\nMaterials/textures: corrugated cardboard, tissue paper, paper tape, wood table\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "ecommerce-packaging-04",
+      "kind": "still",
+      "file": "pieces/ecommerce-packaging-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "EC"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: recycled paper cushioning gathered around a simple unbranded parcel\nScene/backdrop: a clean small-business packing table with generic unbranded materials and no people\nStyle/medium: bright realistic commercial editorial photography\nComposition/framing: wide 16:9 landscape, slightly overhead view, simple usable arrangement\nLighting/mood: soft diffused daylight with light warm shadows\nColor palette: kraft brown, off-white, pale beige, muted sage\nMaterials/textures: corrugated cardboard, tissue paper, paper tape, wood table\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "ecommerce-packaging-05",
+      "kind": "still",
+      "file": "pieces/ecommerce-packaging-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "EC"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a top-down view of flat boxes, scissors, and blank cards arranged for packing\nScene/backdrop: a clean small-business packing table with generic unbranded materials and no people\nStyle/medium: bright realistic commercial editorial photography\nComposition/framing: wide 16:9 landscape, slightly overhead view, simple usable arrangement\nLighting/mood: soft diffused daylight with light warm shadows\nColor palette: kraft brown, off-white, pale beige, muted sage\nMaterials/textures: corrugated cardboard, tissue paper, paper tape, wood table\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "ecommerce-packaging-06",
+      "kind": "still",
+      "file": "pieces/ecommerce-packaging-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "EC"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a closed parcel wrapped in kraft paper with a simple natural twine knot\nScene/backdrop: a clean small-business packing table with generic unbranded materials and no people\nStyle/medium: bright realistic commercial editorial photography\nComposition/framing: wide 16:9 landscape, slightly overhead view, simple usable arrangement\nLighting/mood: soft diffused daylight with light warm shadows\nColor palette: kraft brown, off-white, pale beige, muted sage\nMaterials/textures: corrugated cardboard, tissue paper, paper tape, wood table\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

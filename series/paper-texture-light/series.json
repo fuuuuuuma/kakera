@@ -1,0 +1,92 @@
+{
+  "slug": "paper-texture-light",
+  "title": "明るい紙テクスチャ",
+  "description": "タイトルや図版を重ねやすい、明るい無地紙の高精細テクスチャ。均一な俯瞰光と暖白色で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "真上からの広い拡散光。ほぼ影なし",
+    "colorTemp": "5000Kのニュートラル",
+    "framing": "紙面が画面全体を満たす正対俯瞰",
+    "texture": "繊維・紙目・細かな凹凸を控えめなコントラストで表現"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "paper-texture-light-01",
+      "kind": "still",
+      "file": "pieces/paper-texture-light-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 paper texture background for video editing and thumbnails\nPrimary request: an unmarked warm-white cotton paper sheet with very fine natural fibers and subtle deckle texture\nScene/backdrop: full-frame paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse daylight from directly above, nearly shadowless, clean and quiet\nColor palette: warm white, pale ivory, tiny neutral gray details only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 5000K neutral color temperature, even exposure, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains"
+    },
+    {
+      "id": "paper-texture-light-02",
+      "kind": "still",
+      "file": "pieces/paper-texture-light-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 paper texture background for video editing and thumbnails\nPrimary request: an unmarked warm-white handmade paper surface with sparse soft fibers and delicate organic variation\nScene/backdrop: full-frame paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse daylight from directly above, nearly shadowless, clean and quiet\nColor palette: warm white, pale ivory, tiny neutral gray details only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 5000K neutral color temperature, even exposure, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains"
+    },
+    {
+      "id": "paper-texture-light-03",
+      "kind": "still",
+      "file": "pieces/paper-texture-light-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 paper texture background for video editing and thumbnails\nPrimary request: an unmarked warm-white recycled paper surface with tiny neutral flecks and restrained grain\nScene/backdrop: full-frame paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse daylight from directly above, nearly shadowless, clean and quiet\nColor palette: warm white, pale ivory, tiny neutral gray details only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 5000K neutral color temperature, even exposure, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains"
+    },
+    {
+      "id": "paper-texture-light-04",
+      "kind": "still",
+      "file": "pieces/paper-texture-light-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 paper texture background for video editing and thumbnails\nPrimary request: an unmarked warm-white pressed linen paper surface with a very subtle woven emboss\nScene/backdrop: full-frame paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse daylight from directly above, nearly shadowless, clean and quiet\nColor palette: warm white, pale ivory, tiny neutral gray details only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 5000K neutral color temperature, even exposure, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains"
+    },
+    {
+      "id": "paper-texture-light-05",
+      "kind": "still",
+      "file": "pieces/paper-texture-light-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 paper texture background for video editing and thumbnails\nPrimary request: an unmarked warm-white watercolor paper surface with fine cold-press tooth and gentle valleys\nScene/backdrop: full-frame paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse daylight from directly above, nearly shadowless, clean and quiet\nColor palette: warm white, pale ivory, tiny neutral gray details only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 5000K neutral color temperature, even exposure, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains"
+    },
+    {
+      "id": "paper-texture-light-06",
+      "kind": "still",
+      "file": "pieces/paper-texture-light-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 paper texture background for video editing and thumbnails\nPrimary request: an unmarked warm-white smooth vellum paper surface with faint cloudlike fiber density\nScene/backdrop: full-frame paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse daylight from directly above, nearly shadowless, clean and quiet\nColor palette: warm white, pale ivory, tiny neutral gray details only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 5000K neutral color temperature, even exposure, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains"
+    }
+  ]
+}
+

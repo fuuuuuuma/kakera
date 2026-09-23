@@ -1,0 +1,91 @@
+{
+  "slug": "data-visualization-concept",
+  "title": "データ可視化コンセプト",
+  "description": "数字や文字を使わず、光る立体グラフと透明パネルでデータの増減を表す抽象ビジュアルです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "青紫の発光体による低照度の面光源",
+    "colorTemp": "寒色の青〜紫",
+    "framing": "中央に主題を置いた奥行きのある16:9",
+    "texture": "透明ガラス、発光する立体、微細な粒子"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "data-visualization-concept-01",
+      "kind": "still",
+      "file": "pieces/data-visualization-concept-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: ascending translucent bars arranged like a chart without labels or numbers\nScene/backdrop: an abstract dark presentation space with floating data forms, no interface text\nStyle/medium: polished cinematic 3D visualization with realistic glass and soft volumetric light\nComposition/framing: wide 16:9 frame, layered depth, clear central subject and negative space\nLighting/mood: controlled blue and violet glow on a dark background\nColor palette: navy, black, cyan, restrained violet\nMaterials/textures: transparent glass panels, luminous bars, matte floor, soft particles\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "data-visualization-concept-02",
+      "kind": "still",
+      "file": "pieces/data-visualization-concept-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a flowing line made of luminous nodes rising across transparent panels\nScene/backdrop: an abstract dark presentation space with floating data forms, no interface text\nStyle/medium: polished cinematic 3D visualization with realistic glass and soft volumetric light\nComposition/framing: wide 16:9 frame, layered depth, clear central subject and negative space\nLighting/mood: controlled blue and violet glow on a dark background\nColor palette: navy, black, cyan, restrained violet\nMaterials/textures: transparent glass panels, luminous bars, matte floor, soft particles\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "data-visualization-concept-03",
+      "kind": "still",
+      "file": "pieces/data-visualization-concept-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: stacked glass columns with different heights on a dark reflective floor\nScene/backdrop: an abstract dark presentation space with floating data forms, no interface text\nStyle/medium: polished cinematic 3D visualization with realistic glass and soft volumetric light\nComposition/framing: wide 16:9 frame, layered depth, clear central subject and negative space\nLighting/mood: controlled blue and violet glow on a dark background\nColor palette: navy, black, cyan, restrained violet\nMaterials/textures: transparent glass panels, luminous bars, matte floor, soft particles\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "data-visualization-concept-04",
+      "kind": "still",
+      "file": "pieces/data-visualization-concept-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: concentric data rings and small light points forming a clean analytic composition\nScene/backdrop: an abstract dark presentation space with floating data forms, no interface text\nStyle/medium: polished cinematic 3D visualization with realistic glass and soft volumetric light\nComposition/framing: wide 16:9 frame, layered depth, clear central subject and negative space\nLighting/mood: controlled blue and violet glow on a dark background\nColor palette: navy, black, cyan, restrained violet\nMaterials/textures: transparent glass panels, luminous bars, matte floor, soft particles\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "data-visualization-concept-05",
+      "kind": "still",
+      "file": "pieces/data-visualization-concept-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a field of glowing cubes with one clear upward progression\nScene/backdrop: an abstract dark presentation space with floating data forms, no interface text\nStyle/medium: polished cinematic 3D visualization with realistic glass and soft volumetric light\nComposition/framing: wide 16:9 frame, layered depth, clear central subject and negative space\nLighting/mood: controlled blue and violet glow on a dark background\nColor palette: navy, black, cyan, restrained violet\nMaterials/textures: transparent glass panels, luminous bars, matte floor, soft particles\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "data-visualization-concept-06",
+      "kind": "still",
+      "file": "pieces/data-visualization-concept-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: two abstract groups of light blocks suggesting comparison without text\nScene/backdrop: an abstract dark presentation space with floating data forms, no interface text\nStyle/medium: polished cinematic 3D visualization with realistic glass and soft volumetric light\nComposition/framing: wide 16:9 frame, layered depth, clear central subject and negative space\nLighting/mood: controlled blue and violet glow on a dark background\nColor palette: navy, black, cyan, restrained violet\nMaterials/textures: transparent glass panels, luminous bars, matte floor, soft particles\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

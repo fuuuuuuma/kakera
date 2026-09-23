@@ -1,0 +1,91 @@
+{
+  "slug": "renewable-energy",
+  "title": "再生可能エネルギー",
+  "description": "太陽光、風力、蓄電設備を、澄んだ青空と明るい昼光で統一した環境素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "澄んだ昼の自然光",
+    "colorTemp": "5000K前後の中立〜寒色",
+    "framing": "広い空と水平線を入れた28mm広角",
+    "texture": "太陽光ガラス、白い金属、草地、砂利"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "renewable-energy-01",
+      "kind": "still",
+      "file": "pieces/renewable-energy-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "環境"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: rows of blue solar panels receding across a green field\nScene/backdrop: modern renewable energy infrastructure in a clean open landscape with no people\nStyle/medium: premium realistic environmental editorial photography\nComposition/framing: wide 16:9 landscape, 28mm lens, strong horizon and spacious sky\nLighting/mood: clear bright daylight with crisp natural contrast\nColor palette: sky blue, clean white, deep green, graphite grey\nMaterials/textures: solar glass, painted turbine metal, grass, gravel, clean utility enclosures\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "renewable-energy-02",
+      "kind": "still",
+      "file": "pieces/renewable-energy-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "環境"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: three white wind turbines standing across a low grassy ridge\nScene/backdrop: modern renewable energy infrastructure in a clean open landscape with no people\nStyle/medium: premium realistic environmental editorial photography\nComposition/framing: wide 16:9 landscape, 28mm lens, strong horizon and spacious sky\nLighting/mood: clear bright daylight with crisp natural contrast\nColor palette: sky blue, clean white, deep green, graphite grey\nMaterials/textures: solar glass, painted turbine metal, grass, gravel, clean utility enclosures\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "renewable-energy-03",
+      "kind": "still",
+      "file": "pieces/renewable-energy-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "環境"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a close low-angle view along reflective solar panel edges\nScene/backdrop: modern renewable energy infrastructure in a clean open landscape with no people\nStyle/medium: premium realistic environmental editorial photography\nComposition/framing: wide 16:9 landscape, 28mm lens, strong horizon and spacious sky\nLighting/mood: clear bright daylight with crisp natural contrast\nColor palette: sky blue, clean white, deep green, graphite grey\nMaterials/textures: solar glass, painted turbine metal, grass, gravel, clean utility enclosures\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "renewable-energy-04",
+      "kind": "still",
+      "file": "pieces/renewable-energy-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "環境"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a clean battery storage facility with plain unbranded enclosures\nScene/backdrop: modern renewable energy infrastructure in a clean open landscape with no people\nStyle/medium: premium realistic environmental editorial photography\nComposition/framing: wide 16:9 landscape, 28mm lens, strong horizon and spacious sky\nLighting/mood: clear bright daylight with crisp natural contrast\nColor palette: sky blue, clean white, deep green, graphite grey\nMaterials/textures: solar glass, painted turbine metal, grass, gravel, clean utility enclosures\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "renewable-energy-05",
+      "kind": "still",
+      "file": "pieces/renewable-energy-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "環境"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: wind turbine towers seen from below against a clear blue sky\nScene/backdrop: modern renewable energy infrastructure in a clean open landscape with no people\nStyle/medium: premium realistic environmental editorial photography\nComposition/framing: wide 16:9 landscape, 28mm lens, strong horizon and spacious sky\nLighting/mood: clear bright daylight with crisp natural contrast\nColor palette: sky blue, clean white, deep green, graphite grey\nMaterials/textures: solar glass, painted turbine metal, grass, gravel, clean utility enclosures\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "renewable-energy-06",
+      "kind": "still",
+      "file": "pieces/renewable-energy-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "環境"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: solar panels and distant wind turbines sharing one broad landscape\nScene/backdrop: modern renewable energy infrastructure in a clean open landscape with no people\nStyle/medium: premium realistic environmental editorial photography\nComposition/framing: wide 16:9 landscape, 28mm lens, strong horizon and spacious sky\nLighting/mood: clear bright daylight with crisp natural contrast\nColor palette: sky blue, clean white, deep green, graphite grey\nMaterials/textures: solar glass, painted turbine metal, grass, gravel, clean utility enclosures\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

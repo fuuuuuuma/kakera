@@ -1,0 +1,91 @@
+{
+  "slug": "wellness-still-life",
+  "title": "ウェルネスの静物",
+  "description": "タオル、石、キャンドル、ハーブティーを、生成りの柔らかな光で統一した素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "生成りの柔らかな片側拡散光",
+    "colorTemp": "3800K前後の暖色",
+    "framing": "寄りの静物。左右どちらかに余白",
+    "texture": "リネン、石、曇りガラス、木、乾燥ハーブ"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "wellness-still-life-01",
+      "kind": "still",
+      "file": "pieces/wellness-still-life-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ライフスタイル"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: rolled white towels with smooth stones and a small unlit candle\nScene/backdrop: a calm minimalist wellness still life in a neutral quiet room, no people\nStyle/medium: premium natural lifestyle photography, realistic and understated\nComposition/framing: wide 16:9 landscape, close still life with generous breathing room\nLighting/mood: soft diffused side light with warm gentle shadows\nColor palette: linen white, sand beige, pale sage, warm stone grey\nMaterials/textures: linen, smooth stone, frosted glass, raw wood, dried herbs\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "wellness-still-life-02",
+      "kind": "still",
+      "file": "pieces/wellness-still-life-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ライフスタイル"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a clear cup of herbal tea beside dried leaves and a linen cloth\nScene/backdrop: a calm minimalist wellness still life in a neutral quiet room, no people\nStyle/medium: premium natural lifestyle photography, realistic and understated\nComposition/framing: wide 16:9 landscape, close still life with generous breathing room\nLighting/mood: soft diffused side light with warm gentle shadows\nColor palette: linen white, sand beige, pale sage, warm stone grey\nMaterials/textures: linen, smooth stone, frosted glass, raw wood, dried herbs\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "wellness-still-life-03",
+      "kind": "still",
+      "file": "pieces/wellness-still-life-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ライフスタイル"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a small frosted glass bottle with a blank label beside pale flowers\nScene/backdrop: a calm minimalist wellness still life in a neutral quiet room, no people\nStyle/medium: premium natural lifestyle photography, realistic and understated\nComposition/framing: wide 16:9 landscape, close still life with generous breathing room\nLighting/mood: soft diffused side light with warm gentle shadows\nColor palette: linen white, sand beige, pale sage, warm stone grey\nMaterials/textures: linen, smooth stone, frosted glass, raw wood, dried herbs\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "wellness-still-life-04",
+      "kind": "still",
+      "file": "pieces/wellness-still-life-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ライフスタイル"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a wooden massage brush and folded linen on a light stone surface\nScene/backdrop: a calm minimalist wellness still life in a neutral quiet room, no people\nStyle/medium: premium natural lifestyle photography, realistic and understated\nComposition/framing: wide 16:9 landscape, close still life with generous breathing room\nLighting/mood: soft diffused side light with warm gentle shadows\nColor palette: linen white, sand beige, pale sage, warm stone grey\nMaterials/textures: linen, smooth stone, frosted glass, raw wood, dried herbs\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "wellness-still-life-05",
+      "kind": "still",
+      "file": "pieces/wellness-still-life-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ライフスタイル"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: three balanced river stones with a soft green leaf nearby\nScene/backdrop: a calm minimalist wellness still life in a neutral quiet room, no people\nStyle/medium: premium natural lifestyle photography, realistic and understated\nComposition/framing: wide 16:9 landscape, close still life with generous breathing room\nLighting/mood: soft diffused side light with warm gentle shadows\nColor palette: linen white, sand beige, pale sage, warm stone grey\nMaterials/textures: linen, smooth stone, frosted glass, raw wood, dried herbs\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "wellness-still-life-06",
+      "kind": "still",
+      "file": "pieces/wellness-still-life-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ライフスタイル"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a shallow ceramic bowl of water reflecting warm window light\nScene/backdrop: a calm minimalist wellness still life in a neutral quiet room, no people\nStyle/medium: premium natural lifestyle photography, realistic and understated\nComposition/framing: wide 16:9 landscape, close still life with generous breathing room\nLighting/mood: soft diffused side light with warm gentle shadows\nColor palette: linen white, sand beige, pale sage, warm stone grey\nMaterials/textures: linen, smooth stone, frosted glass, raw wood, dried herbs\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

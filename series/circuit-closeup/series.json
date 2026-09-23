@@ -1,0 +1,91 @@
+{
+  "slug": "circuit-closeup",
+  "title": "回路基板の接写",
+  "description": "回路パターン、実装部品、はんだの反射を、深い緑と青のマクロ撮影でそろえた素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "暗いスタジオの寒色リムライト",
+    "colorTemp": "5200K前後の寒色",
+    "framing": "マクロの浅い被写界深度。斜めの導線",
+    "texture": "基板、銅配線、マットな部品、はんだの点反射"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "circuit-closeup-01",
+      "kind": "still",
+      "file": "pieces/circuit-closeup-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: copper traces weaving between small surface-mount components\nScene/backdrop: a generic unbranded electronic circuit board in a dark studio\nStyle/medium: ultra-detailed cinematic macro photography, physically realistic\nComposition/framing: wide 16:9 macro frame, shallow depth of field, diagonal leading lines\nLighting/mood: low-key cool rim light with small cyan reflections\nColor palette: deep PCB green, black, copper, muted cyan\nMaterials/textures: fiberglass board, copper traces, matte components, metallic solder joints\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "circuit-closeup-02",
+      "kind": "still",
+      "file": "pieces/circuit-closeup-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a blank square processor package surrounded by tiny capacitors\nScene/backdrop: a generic unbranded electronic circuit board in a dark studio\nStyle/medium: ultra-detailed cinematic macro photography, physically realistic\nComposition/framing: wide 16:9 macro frame, shallow depth of field, diagonal leading lines\nLighting/mood: low-key cool rim light with small cyan reflections\nColor palette: deep PCB green, black, copper, muted cyan\nMaterials/textures: fiberglass board, copper traces, matte components, metallic solder joints\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "circuit-closeup-03",
+      "kind": "still",
+      "file": "pieces/circuit-closeup-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: rows of clean solder joints catching a narrow rim light\nScene/backdrop: a generic unbranded electronic circuit board in a dark studio\nStyle/medium: ultra-detailed cinematic macro photography, physically realistic\nComposition/framing: wide 16:9 macro frame, shallow depth of field, diagonal leading lines\nLighting/mood: low-key cool rim light with small cyan reflections\nColor palette: deep PCB green, black, copper, muted cyan\nMaterials/textures: fiberglass board, copper traces, matte components, metallic solder joints\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "circuit-closeup-04",
+      "kind": "still",
+      "file": "pieces/circuit-closeup-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a macro view across layered circuit pathways and vias\nScene/backdrop: a generic unbranded electronic circuit board in a dark studio\nStyle/medium: ultra-detailed cinematic macro photography, physically realistic\nComposition/framing: wide 16:9 macro frame, shallow depth of field, diagonal leading lines\nLighting/mood: low-key cool rim light with small cyan reflections\nColor palette: deep PCB green, black, copper, muted cyan\nMaterials/textures: fiberglass board, copper traces, matte components, metallic solder joints\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "circuit-closeup-05",
+      "kind": "still",
+      "file": "pieces/circuit-closeup-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a generic connector socket and nearby components in shallow focus\nScene/backdrop: a generic unbranded electronic circuit board in a dark studio\nStyle/medium: ultra-detailed cinematic macro photography, physically realistic\nComposition/framing: wide 16:9 macro frame, shallow depth of field, diagonal leading lines\nLighting/mood: low-key cool rim light with small cyan reflections\nColor palette: deep PCB green, black, copper, muted cyan\nMaterials/textures: fiberglass board, copper traces, matte components, metallic solder joints\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "circuit-closeup-06",
+      "kind": "still",
+      "file": "pieces/circuit-closeup-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an abstract low-angle view skimming across a dense circuit board\nScene/backdrop: a generic unbranded electronic circuit board in a dark studio\nStyle/medium: ultra-detailed cinematic macro photography, physically realistic\nComposition/framing: wide 16:9 macro frame, shallow depth of field, diagonal leading lines\nLighting/mood: low-key cool rim light with small cyan reflections\nColor palette: deep PCB green, black, copper, muted cyan\nMaterials/textures: fiberglass board, copper traces, matte components, metallic solder joints\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "medical-lab-empty",
+  "title": "無人の研究室",
+  "description": "顕微鏡、ガラス器具、ピペットを、清潔な白と青の光で統一した研究Bロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "明るい白色の拡散光と弱い青の補助光",
+    "colorTemp": "5200K前後の寒色",
+    "framing": "目線〜斜め上の清潔な実験台",
+    "texture": "透明ガラス、白い樹脂、ステンレス"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "medical-lab-empty-01",
+      "kind": "still",
+      "file": "pieces/medical-lab-empty-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "研究"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a generic microscope on a clean white bench with empty space around it\nScene/backdrop: a clean generic research laboratory bench with no people and no patient material\nStyle/medium: realistic clinical editorial photography, precise and non-dramatic\nComposition/framing: wide 16:9 landscape, eye-level or slightly elevated close view\nLighting/mood: bright cool diffuse laboratory light with soft blue accents\nColor palette: clean white, pale blue, clear glass, brushed silver\nMaterials/textures: glassware, stainless steel, matte white bench, clear liquids\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "medical-lab-empty-02",
+      "kind": "still",
+      "file": "pieces/medical-lab-empty-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "研究"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: clear unlabeled test tubes in a simple rack with soft blue reflections\nScene/backdrop: a clean generic research laboratory bench with no people and no patient material\nStyle/medium: realistic clinical editorial photography, precise and non-dramatic\nComposition/framing: wide 16:9 landscape, eye-level or slightly elevated close view\nLighting/mood: bright cool diffuse laboratory light with soft blue accents\nColor palette: clean white, pale blue, clear glass, brushed silver\nMaterials/textures: glassware, stainless steel, matte white bench, clear liquids\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "medical-lab-empty-03",
+      "kind": "still",
+      "file": "pieces/medical-lab-empty-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "研究"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: glass beakers containing clear and pale blue liquids with no labels\nScene/backdrop: a clean generic research laboratory bench with no people and no patient material\nStyle/medium: realistic clinical editorial photography, precise and non-dramatic\nComposition/framing: wide 16:9 landscape, eye-level or slightly elevated close view\nLighting/mood: bright cool diffuse laboratory light with soft blue accents\nColor palette: clean white, pale blue, clear glass, brushed silver\nMaterials/textures: glassware, stainless steel, matte white bench, clear liquids\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "medical-lab-empty-04",
+      "kind": "still",
+      "file": "pieces/medical-lab-empty-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "研究"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a neat row of generic pipettes beside an empty transparent tray\nScene/backdrop: a clean generic research laboratory bench with no people and no patient material\nStyle/medium: realistic clinical editorial photography, precise and non-dramatic\nComposition/framing: wide 16:9 landscape, eye-level or slightly elevated close view\nLighting/mood: bright cool diffuse laboratory light with soft blue accents\nColor palette: clean white, pale blue, clear glass, brushed silver\nMaterials/textures: glassware, stainless steel, matte white bench, clear liquids\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "medical-lab-empty-05",
+      "kind": "still",
+      "file": "pieces/medical-lab-empty-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "研究"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a closed petri dish and stainless tools on a sterile bench\nScene/backdrop: a clean generic research laboratory bench with no people and no patient material\nStyle/medium: realistic clinical editorial photography, precise and non-dramatic\nComposition/framing: wide 16:9 landscape, eye-level or slightly elevated close view\nLighting/mood: bright cool diffuse laboratory light with soft blue accents\nColor palette: clean white, pale blue, clear glass, brushed silver\nMaterials/textures: glassware, stainless steel, matte white bench, clear liquids\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "medical-lab-empty-06",
+      "kind": "still",
+      "file": "pieces/medical-lab-empty-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "研究"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an empty laboratory aisle with repeating white workstations and glass cabinets\nScene/backdrop: a clean generic research laboratory bench with no people and no patient material\nStyle/medium: realistic clinical editorial photography, precise and non-dramatic\nComposition/framing: wide 16:9 landscape, eye-level or slightly elevated close view\nLighting/mood: bright cool diffuse laboratory light with soft blue accents\nColor palette: clean white, pale blue, clear glass, brushed silver\nMaterials/textures: glassware, stainless steel, matte white bench, clear liquids\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

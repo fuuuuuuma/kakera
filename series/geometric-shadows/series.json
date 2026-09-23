@@ -1,0 +1,92 @@
+{
+  "slug": "geometric-shadows",
+  "title": "幾何学の影",
+  "description": "暖白色の壁面に幾何学的な影を落とした、余白の多いミニマル背景。光の方向と柔らかな漆喰質感で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "左上から低い角度の柔らかな方向光。影は右下へ",
+    "colorTemp": "4800Kのニュートラル寄り暖色",
+    "framing": "地平線のない正対ワイド構図。文字用余白を確保",
+    "texture": "きめ細かなマット漆喰と柔らかな影の階調"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "geometric-shadows-01",
+      "kind": "still",
+      "file": "pieces/geometric-shadows-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: minimalist 16:9 abstract background for video editing and thumbnails\nPrimary request: abstract shadows of one large circle and two thin diagonal bars cast onto a matte warm-white plaster surface\nScene/backdrop: seamless matte warm-white plaster plane\nStyle/medium: premium architectural still-life photography, photorealistic\nComposition/framing: wide landscape, circle shadow on the right third, clean negative space on the left, straight-on view with no horizon\nLighting/mood: one soft directional daylight source from upper left at a low angle, calm gallery atmosphere\nColor palette: warm white, pale sand, soft neutral-gray shadows only\nMaterials/textures: very fine matte plaster grain, soft-edged shadows with subtle tonal falloff\nConstraints: consistent 4800K neutral-warm color temperature, shadow direction always down and right, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, physical objects visible in frame, letters, numbers, recognizable symbols, text, logos, brands, watermark, signatures, borders, frames, collage, harsh black shadows, optical illusions, impossible lighting"
+    },
+    {
+      "id": "geometric-shadows-02",
+      "kind": "still",
+      "file": "pieces/geometric-shadows-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: minimalist 16:9 abstract background for video editing and thumbnails\nPrimary request: abstract shadows of three staggered arches cast onto a matte warm-white plaster surface\nScene/backdrop: seamless matte warm-white plaster plane\nStyle/medium: premium architectural still-life photography, photorealistic\nComposition/framing: wide landscape, arch shadows rising from the lower left, clean negative space at upper right, straight-on view with no horizon\nLighting/mood: one soft directional daylight source from upper left at a low angle, calm gallery atmosphere\nColor palette: warm white, pale sand, soft neutral-gray shadows only\nMaterials/textures: very fine matte plaster grain, soft-edged shadows with subtle tonal falloff\nConstraints: consistent 4800K neutral-warm color temperature, shadow direction always down and right, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, physical objects visible in frame, letters, numbers, recognizable symbols, text, logos, brands, watermark, signatures, borders, frames, collage, harsh black shadows, optical illusions, impossible lighting"
+    },
+    {
+      "id": "geometric-shadows-03",
+      "kind": "still",
+      "file": "pieces/geometric-shadows-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: minimalist 16:9 abstract background for video editing and thumbnails\nPrimary request: abstract shadows of a square grid with broad spacing cast onto a matte warm-white plaster surface\nScene/backdrop: seamless matte warm-white plaster plane\nStyle/medium: premium architectural still-life photography, photorealistic\nComposition/framing: wide landscape, grid shadow cropped along the right edge, clean negative space on the left half, straight-on view with no horizon\nLighting/mood: one soft directional daylight source from upper left at a low angle, calm gallery atmosphere\nColor palette: warm white, pale sand, soft neutral-gray shadows only\nMaterials/textures: very fine matte plaster grain, soft-edged shadows with subtle tonal falloff\nConstraints: consistent 4800K neutral-warm color temperature, shadow direction always down and right, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, physical objects visible in frame, letters, numbers, recognizable symbols, text, logos, brands, watermark, signatures, borders, frames, collage, harsh black shadows, optical illusions, impossible lighting"
+    },
+    {
+      "id": "geometric-shadows-04",
+      "kind": "still",
+      "file": "pieces/geometric-shadows-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: minimalist 16:9 abstract background for video editing and thumbnails\nPrimary request: abstract shadows of overlapping translucent rectangles cast onto a matte warm-white plaster surface\nScene/backdrop: seamless matte warm-white plaster plane\nStyle/medium: premium architectural still-life photography, photorealistic\nComposition/framing: wide landscape, layered shadows centered low, clean negative space across the upper third, straight-on view with no horizon\nLighting/mood: one soft directional daylight source from upper left at a low angle, calm gallery atmosphere\nColor palette: warm white, pale sand, soft neutral-gray shadows only\nMaterials/textures: very fine matte plaster grain, soft-edged shadows with subtle tonal falloff\nConstraints: consistent 4800K neutral-warm color temperature, shadow direction always down and right, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, physical objects visible in frame, letters, numbers, recognizable symbols, text, logos, brands, watermark, signatures, borders, frames, collage, harsh black shadows, optical illusions, impossible lighting"
+    },
+    {
+      "id": "geometric-shadows-05",
+      "kind": "still",
+      "file": "pieces/geometric-shadows-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: minimalist 16:9 abstract background for video editing and thumbnails\nPrimary request: abstract shadows of two broad sweeping curves cast onto a matte warm-white plaster surface\nScene/backdrop: seamless matte warm-white plaster plane\nStyle/medium: premium architectural still-life photography, photorealistic\nComposition/framing: wide landscape, curves crossing diagonally, quiet corners and open center, straight-on view with no horizon\nLighting/mood: one soft directional daylight source from upper left at a low angle, calm gallery atmosphere\nColor palette: warm white, pale sand, soft neutral-gray shadows only\nMaterials/textures: very fine matte plaster grain, soft-edged shadows with subtle tonal falloff\nConstraints: consistent 4800K neutral-warm color temperature, shadow direction always down and right, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, physical objects visible in frame, letters, numbers, recognizable symbols, text, logos, brands, watermark, signatures, borders, frames, collage, harsh black shadows, optical illusions, impossible lighting"
+    },
+    {
+      "id": "geometric-shadows-06",
+      "kind": "still",
+      "file": "pieces/geometric-shadows-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: minimalist 16:9 abstract background for video editing and thumbnails\nPrimary request: abstract shadows of small circles arranged in a loose descending rhythm cast onto a matte warm-white plaster surface\nScene/backdrop: seamless matte warm-white plaster plane\nStyle/medium: premium architectural still-life photography, photorealistic\nComposition/framing: wide landscape, circle shadows descending from upper left, clean negative space on the lower right, straight-on view with no horizon\nLighting/mood: one soft directional daylight source from upper left at a low angle, calm gallery atmosphere\nColor palette: warm white, pale sand, soft neutral-gray shadows only\nMaterials/textures: very fine matte plaster grain, soft-edged shadows with subtle tonal falloff\nConstraints: consistent 4800K neutral-warm color temperature, shadow direction always down and right, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, physical objects visible in frame, letters, numbers, recognizable symbols, text, logos, brands, watermark, signatures, borders, frames, collage, harsh black shadows, optical illusions, impossible lighting"
+    }
+  ]
+}
+

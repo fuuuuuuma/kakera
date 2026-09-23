@@ -1,0 +1,92 @@
+{
+  "slug": "abstract-fluid-blue",
+  "title": "青の流体",
+  "description": "映像の敷きや場面転換に使いやすい、青い透明流体のマクロ表現。深いネイビー背景と冷たい照明で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "左上からの柔らかな寒色サイドライト。ハイライトは控えめ",
+    "colorTemp": "6500Kの寒色",
+    "framing": "16:9のマクロ構図。背景に使える余白を残す",
+    "texture": "滑らかで光沢のある粘性流体と繊細なコースティクス"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "abstract-fluid-blue-01",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-blue-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: cobalt-blue translucent fluid forms flowing diagonally from upper left to lower right, broad smooth ribbons with one elegant central fold\nScene/backdrop: deep navy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, usable negative space near the upper right\nLighting/mood: soft cool studio side light from the upper left, restrained luminous highlights, calm and sophisticated\nColor palette: cobalt blue, deep navy, subtle cyan highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 6500K cool color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, purple, warm orange"
+    },
+    {
+      "id": "abstract-fluid-blue-02",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-blue-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: cobalt-blue translucent fluid forms creating two parallel sweeping waves from left to right\nScene/backdrop: deep navy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, balanced negative space along the top center\nLighting/mood: soft cool studio side light from the upper left, restrained luminous highlights, calm and sophisticated\nColor palette: cobalt blue, deep navy, subtle cyan highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 6500K cool color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, purple, warm orange"
+    },
+    {
+      "id": "abstract-fluid-blue-03",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-blue-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: cobalt-blue translucent fluid forms curling into a broad spiral with an open calm center\nScene/backdrop: deep navy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, spiral weighted to the lower left with negative space at upper right\nLighting/mood: soft cool studio side light from the upper left, restrained luminous highlights, calm and sophisticated\nColor palette: cobalt blue, deep navy, subtle cyan highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 6500K cool color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, purple, warm orange"
+    },
+    {
+      "id": "abstract-fluid-blue-04",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-blue-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: cobalt-blue translucent fluid forms forming a low rolling crest across the bottom third\nScene/backdrop: deep navy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, generous clean negative space across the upper half\nLighting/mood: soft cool studio side light from the upper left, restrained luminous highlights, calm and sophisticated\nColor palette: cobalt blue, deep navy, subtle cyan highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 6500K cool color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, purple, warm orange"
+    },
+    {
+      "id": "abstract-fluid-blue-05",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-blue-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: cobalt-blue translucent fluid forms folding vertically like a soft liquid curtain\nScene/backdrop: deep navy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, main fold on the right third with negative space on the left\nLighting/mood: soft cool studio side light from the upper left, restrained luminous highlights, calm and sophisticated\nColor palette: cobalt blue, deep navy, subtle cyan highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 6500K cool color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, purple, warm orange"
+    },
+    {
+      "id": "abstract-fluid-blue-06",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-blue-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: cobalt-blue translucent fluid forms intersecting in a gentle S-curve with layered depth\nScene/backdrop: deep navy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, centered S-curve with small quiet corners\nLighting/mood: soft cool studio side light from the upper left, restrained luminous highlights, calm and sophisticated\nColor palette: cobalt blue, deep navy, subtle cyan highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 6500K cool color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, purple, warm orange"
+    }
+  ]
+}
+

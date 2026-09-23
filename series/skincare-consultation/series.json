@@ -1,0 +1,115 @@
+{
+  "slug": "skincare-consultation",
+  "title": "スキンケア相談",
+  "description": "スキンケア相談について、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "活動内容に合う自然光または会場光",
+    "colorTemp": "4000〜5000Kの自然な範囲",
+    "framing": "16:9。場所、単独、ペア、グループ、ディテールを網羅",
+    "texture": "肌、衣服、道具、装飾、会場素材の自然な実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "skincare-consultation-01",
+      "kind": "still",
+      "file": "pieces/skincare-consultation-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "スポーツ・美容・行事",
+        "美容",
+        "スキンケア",
+        "相談",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA スポーツ・美容・行事 stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a bright generic beauty consultation space. Exactly zero people. Generic props clearly suggest discussing everyday skincare without medical claims, with generous clean negative space.\nStyle: photorealistic energetic lifestyle and event editorial photography, inclusive and contemporary.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean natural or venue light with a clear emotional focus.\nPalette: cream, cobalt, muted coral, warm neutral, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "skincare-consultation-02",
+      "kind": "still",
+      "file": "pieces/skincare-consultation-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "スポーツ・美容・行事",
+        "美容",
+        "スキンケア",
+        "相談",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA スポーツ・美容・行事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional adult clients and beauty staff. Show that single person preparing for, pausing during, or reflecting after discussing everyday skincare without medical claims, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a bright generic beauty consultation space. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic energetic lifestyle and event editorial photography, inclusive and contemporary.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean natural or venue light with a clear emotional focus.\nPalette: cream, cobalt, muted coral, warm neutral, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "skincare-consultation-03",
+      "kind": "still",
+      "file": "pieces/skincare-consultation-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "スポーツ・美容・行事",
+        "美容",
+        "スキンケア",
+        "相談",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA スポーツ・美容・行事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional adult clients and beauty staff. Show that single person preparing for, pausing during, or reflecting after discussing everyday skincare without medical claims, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a bright generic beauty consultation space. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic energetic lifestyle and event editorial photography, inclusive and contemporary.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean natural or venue light with a clear emotional focus.\nPalette: cream, cobalt, muted coral, warm neutral, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "skincare-consultation-04",
+      "kind": "still",
+      "file": "pieces/skincare-consultation-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "スポーツ・美容・行事",
+        "美容",
+        "スキンケア",
+        "相談",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA スポーツ・美容・行事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional adult clients and beauty staff. Show a credible interaction while discussing everyday skincare without medical claims, with separated bodies and natural eye lines in a bright generic beauty consultation space.\nStyle: photorealistic energetic lifestyle and event editorial photography, inclusive and contemporary.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean natural or venue light with a clear emotional focus.\nPalette: cream, cobalt, muted coral, warm neutral, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "skincare-consultation-05",
+      "kind": "still",
+      "file": "pieces/skincare-consultation-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "スポーツ・美容・行事",
+        "美容",
+        "スキンケア",
+        "相談",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA スポーツ・美容・行事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional adult clients and beauty staff. Each person does a believable part of discussing everyday skincare without medical claims, in a wide environmental view of a bright generic beauty consultation space.\nStyle: photorealistic energetic lifestyle and event editorial photography, inclusive and contemporary.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean natural or venue light with a clear emotional focus.\nPalette: cream, cobalt, muted coral, warm neutral, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "skincare-consultation-06",
+      "kind": "still",
+      "file": "pieces/skincare-consultation-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "スポーツ・美容・行事",
+        "美容",
+        "スキンケア",
+        "相談",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA スポーツ・美容・行事 stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in discussing everyday skincare without medical claims, with physically plausible contact in a bright generic beauty consultation space. Avoid a full face.\nStyle: photorealistic energetic lifestyle and event editorial photography, inclusive and contemporary.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean natural or venue light with a clear emotional focus.\nPalette: cream, cobalt, muted coral, warm neutral, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

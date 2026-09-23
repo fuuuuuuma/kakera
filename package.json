@@ -1,0 +1,31 @@
+{
+  "name": "kakera",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "inspect": "tsx tools/inspect.ts",
+    "measure-tone": "tsx tools/measure-tone.ts",
+    "build-catalog": "tsx tools/build-catalog.ts",
+    "build-site": "tsx tools/build-site.ts",
+    "cutout": "tsx tools/cutout.ts",
+    "prepare-root-series": "tsx tools/prepare-root-ai-series.ts",
+    "prepare-200-series": "tsx tools/prepare-genre-series.ts",
+    "normalize-200-assets": "tsx tools/normalize-200-assets.ts",
+    "qa-genre-assets": "tsx tools/qa-genre-assets.ts",
+    "submit-series": "tsx tools/submit-series.ts"
+  },
+  "dependencies": {
+    "sharp": "^0.35.3",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}

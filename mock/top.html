@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KAKERA — トップ（白基調・ゴシック体）</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  [hidden]{display:none !important}
+  *,*::before,*::after{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:#fff;color:#101315;
+       font-family:"Noto Sans JP",system-ui,sans-serif;font-size:15px;line-height:1.8;
+       font-feature-settings:"palt" 1}
+  button{font:inherit;cursor:pointer;background:none;border:0;color:inherit}
+  a{color:inherit}
+  :focus-visible{outline:2px solid #1749FF;outline-offset:2px}
+  @media (prefers-reduced-motion: reduce){*{transition:none !important}}
+
+  :root{
+    --ink:#101315; --sub:#5A6570; --faint:#67717A;
+    --rule:#DFE3E7; --rule2:#EDF0F2; --panel:#F7F8F9;
+    --blue:#1749FF; --rose:#FF2D6B; --rose-ink:#D1004A;
+    --wrap:1200px;
+  }
+  .wrap{max-width:var(--wrap);margin:0 auto;padding:0 28px}
+  .mono{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums}
+  .num{font-family:"Archivo",sans-serif;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+
+  /* ---- ヘッダ ---- */
+  header{border-bottom:1px solid var(--ink);position:sticky;top:0;background:#fff;z-index:50}
+  header .row{display:flex;align-items:center;gap:16px;height:62px}
+  .logo{font-family:"Archivo",sans-serif;font-weight:900;font-size:21px;letter-spacing:.2em}
+  .chip{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.12em;
+        border:1px solid var(--rule);color:var(--faint);padding:2px 7px}
+  header nav{margin-left:auto;display:flex;gap:24px;font-size:13.5px;font-weight:500}
+  header nav a{text-decoration:none;color:var(--sub)}
+  header nav a:hover{color:var(--ink)}
+  .btn{display:inline-flex;align-items:center;gap:7px;font-size:13.5px;font-weight:700;
+       padding:9px 18px;text-decoration:none;border:1px solid var(--ink)}
+  .btn-p{background:var(--ink);color:#fff}
+  .btn-p:hover{background:var(--blue);border-color:var(--blue)}
+
+  /* ---- ヒーロー ---- */
+  .hero{padding:66px 0 0;border-bottom:1px solid var(--ink)}
+  .hero h1{font-size:clamp(30px,4.6vw,56px);font-weight:900;line-height:1.34;
+           letter-spacing:-.02em;margin:0 0 20px}
+  .hero h1 u{text-decoration:none;color:var(--blue)}
+  .hero p{max-width:40em;margin:0 0 30px;font-size:15.5px;line-height:2.05;color:var(--sub)}
+  .hero .acts{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:52px}
+  .kpi{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--rule)}
+  .kpi div{padding:22px 22px 24px 0;border-right:1px solid var(--rule)}
+  .kpi div:last-child{border-right:0}
+  .kpi strong{display:block;font-family:"Archivo",sans-serif;font-weight:900;font-size:38px;
+              line-height:1;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+  .kpi span{display:block;margin-top:8px;font-family:"IBM Plex Mono",monospace;
+            font-size:10.5px;letter-spacing:.1em;color:var(--faint)}
+  .kpi em{font-style:normal;font-size:12.5px;color:var(--sub);display:block;margin-top:2px}
+
+  /* ---- 節の見出し ---- */
+  .sec{padding:58px 0 0}
+  .sechead{display:flex;align-items:flex-end;gap:16px;padding-bottom:14px;
+           border-bottom:2px solid var(--ink);margin-bottom:0}
+  .sechead h2{margin:0;font-size:19px;font-weight:900;letter-spacing:-.01em}
+  .sechead .note{font-size:12.5px;color:var(--faint);padding-bottom:3px}
+  .sechead .right{margin-left:auto;display:flex;gap:2px;padding-bottom:2px}
+  .seg{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.08em;
+       padding:6px 12px;border:1px solid var(--rule);color:var(--faint)}
+  .seg[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+
+  /* ---- ランキング（署名要素: 巨大な順位数字） ---- */
+  .rank{border-bottom:1px solid var(--ink)}
+  .rk{display:grid;grid-template-columns:96px 232px 1fr auto;gap:22px;align-items:center;
+      padding:18px 0;border-bottom:1px solid var(--rule2)}
+  .rk:last-child{border-bottom:0}
+  .rk .pos{font-family:"Archivo",sans-serif;font-weight:900;font-size:60px;line-height:.8;
+           letter-spacing:-.05em;font-variant-numeric:tabular-nums}
+  .rk:nth-child(1) .pos{color:var(--blue)}
+  .rk:nth-child(n+2) .pos{color:var(--ink)}
+  .rk:nth-child(n+4) .pos{color:var(--sub)}
+  .tiles{display:grid;grid-template-columns:1fr 1fr;gap:3px;border:1px solid var(--rule)}
+  .tiles i{aspect-ratio:16/9;display:block}
+  .rk h3{margin:0 0 4px;font-size:16.5px;font-weight:700;letter-spacing:-.01em}
+  .rk .by{font-size:12.5px;color:var(--sub)}
+  .rk .by b{font-weight:500;color:var(--ink)}
+  .rk .tagline{margin-top:6px;display:flex;gap:6px;flex-wrap:wrap}
+  .tag{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.06em;
+       border:1px solid var(--rule);padding:2px 7px;color:var(--sub)}
+  .tag.alpha{border-color:var(--blue);color:var(--blue)}
+  .figs{display:flex;gap:26px;text-align:right}
+  .figs div strong{display:block;font-family:"Archivo",sans-serif;font-weight:800;font-size:23px;
+                   line-height:1.1;font-variant-numeric:tabular-nums}
+  .figs div span{font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.1em;color:var(--faint)}
+  .figs .likes strong{color:var(--rose)}
+
+  /* ---- 新着（別枠で常設） ---- */
+  .fresh{display:grid;grid-template-columns:repeat(4,1fr);border-left:1px solid var(--rule)}
+  .fresh article{border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:14px}
+  .fresh .tiles{border:0;gap:3px}
+  .fresh h3{margin:11px 0 3px;font-size:14.5px;font-weight:700}
+  .fresh .by{font-size:12px;color:var(--sub)}
+  .fresh .when{font-family:"IBM Plex Mono",monospace;font-size:10px;color:var(--faint);letter-spacing:.06em}
+
+  /* ---- シリーズ一覧 ---- */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));
+        border-left:1px solid var(--rule);border-top:1px solid var(--rule)}
+  .card{border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:16px}
+  .card .tiles{border:0}
+  .card h3{margin:13px 0 4px;font-size:15px;font-weight:700;letter-spacing:-.01em}
+  .card .by{font-size:12.5px;color:var(--sub);margin-bottom:10px}
+  .card .foot{display:flex;align-items:center;gap:14px;padding-top:11px;border-top:1px solid var(--rule2)}
+  .card .dl{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--sub);letter-spacing:.04em}
+  .like{margin-left:auto;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--rule);
+        padding:5px 11px;font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--sub)}
+  .like svg{width:13px;height:13px;flex:none}
+  .like:hover{border-color:var(--rose-ink);color:var(--rose-ink)}
+  .like[aria-pressed="true"]{border-color:var(--rose-ink);background:var(--rose-ink);color:#fff}
+  .like[aria-pressed="true"] svg{fill:#fff}
+
+  /* ---- 投稿の案内 ---- */
+  .invite{margin:64px 0 0;border:2px solid var(--ink);display:grid;grid-template-columns:1.25fr 1fr}
+  .invite .l{padding:38px 36px}
+  .invite h2{margin:0 0 14px;font-size:25px;font-weight:900;letter-spacing:-.02em;line-height:1.5}
+  .invite p{margin:0 0 22px;color:var(--sub);font-size:14.5px;line-height:2}
+  .invite .r{border-left:1px solid var(--ink);background:var(--panel);padding:30px 32px}
+  .invite .r h3{margin:0 0 16px;font-family:"IBM Plex Mono",monospace;font-size:10.5px;
+                letter-spacing:.14em;color:var(--faint);font-weight:400}
+  .invite ol{margin:0;padding:0;list-style:none;counter-reset:s}
+  .invite ol li{counter-increment:s;display:flex;gap:12px;padding:9px 0;
+                border-bottom:1px solid var(--rule);font-size:13.5px;line-height:1.7}
+  .invite ol li:last-child{border-bottom:0}
+  .invite ol li::before{content:counter(s,decimal-leading-zero);
+    font-family:"Archivo",sans-serif;font-weight:800;font-size:12px;color:var(--blue);
+    flex:none;padding-top:3px}
+
+  /* ---- フッター ---- */
+  footer{margin-top:66px;border-top:1px solid var(--ink);padding:30px 0 70px;font-size:12.5px;color:var(--sub);line-height:2}
+  footer .lic{display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;margin-bottom:14px}
+  footer .lic b{font-size:13px;color:var(--ink)}
+  footer nav{display:flex;gap:20px;flex-wrap:wrap;margin-top:14px;font-size:12.5px}
+  footer nav a{color:var(--sub)}
+
+  @media (max-width:960px){
+    .kpi{grid-template-columns:1fr 1fr}
+    .kpi div:nth-child(2){border-right:0}
+    .fresh{grid-template-columns:1fr 1fr}
+    .invite{grid-template-columns:1fr}
+    .invite .r{border-left:0;border-top:1px solid var(--ink)}
+  }
+  @media (max-width:720px){
+    .rk{grid-template-columns:52px 1fr;gap:14px}
+    .rk .tiles{display:none}
+    .rk .pos{font-size:38px}
+    .figs{grid-column:2;justify-content:flex-start;text-align:left;gap:20px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap row">
+    <span class="logo">KAKERA</span>
+    <span class="chip">MOCK / 白基調・ゴシック</span>
+    <nav>
+      <a href="#">シリーズ</a><a href="#">ランキング</a><a href="#">透過</a><a href="#">音</a><a href="#">作者</a>
+    </nav>
+    <a class="btn btn-p" href="#">素材を載せる</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>つくった素材を、<u>ただで置いていく</u>場所。</h1>
+    <p>動画編集者とサムネイル制作者のための、AI生成素材ライブラリ。誰でも無料で載せられて、誰でも無料で持っていけます。お金は一円も動きません。手数料もありません。載せた人に返ってくるのは、いいねとダウンロード数です。</p>
+    <div class="acts">
+      <a class="btn btn-p" href="#">シリーズを見る</a>
+      <a class="btn" href="#">素材を載せる（無料）</a>
+    </div>
+    <div class="kpi">
+      <div><strong>128</strong><span>SERIES</span><em>シリーズ</em></div>
+      <div><strong>1,142</strong><span>PIECES</span><em>かけら</em></div>
+      <div><strong>37</strong><span>CREATORS</span><em>載せた人</em></div>
+      <div><strong>¥0</strong><span>ALWAYS</span><em>手数料なし・登録なしでDL</em></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sechead">
+      <h2>今週のランキング</h2>
+      <span class="note">毎週月曜 0:00 にリセット</span>
+      <span class="right">
+        <button class="seg" aria-pressed="true" data-m="dl">DOWNLOADS</button>
+        <button class="seg" aria-pressed="false" data-m="like">LIKES</button>
+      </span>
+    </div>
+    <div class="rank" id="rank"></div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sechead">
+      <h2>新着</h2>
+      <span class="note">ランキングとは別枠。載せたばかりのシリーズが必ずここに出ます</span>
+    </div>
+    <div class="fresh" id="fresh"></div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sechead">
+      <h2>すべてのシリーズ</h2>
+      <span class="note">同じ光・色・画角でそろえた6〜12点をひと組にして置いています</span>
+    </div>
+    <div class="grid" id="grid"></div>
+
+    <div class="invite">
+      <div class="l">
+        <h2>載せるのも、持っていくのも、<br>ぜんぶ無料です。</h2>
+        <p>売り買いはしません。手数料も取りません。あなたが載せた素材が誰かの動画に使われたら、その数がダウンロード数として返ってきます。よかったと思った人がいいねを押します。作者ページには、その積み上げが残ります。</p>
+        <a class="btn btn-p" href="#">素材を載せる</a>
+      </div>
+      <div class="r">
+        <h3>載せるまでの手順</h3>
+        <ol>
+          <li>同じトーンで6〜12点そろえて、シリーズにする</li>
+          <li>どのモデルで生成したかを申告する（再配布が認められているモデルのみ）</li>
+          <li>自分が生成したもので、他人の権利を侵していないことに同意する</li>
+          <li>公開。プロンプトも一緒に置きます</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="lic">
+      <b>KAKERA ライセンス</b>
+      <span>商用可・クレジット不要・改変自由。禁止するのは素材ファイルそのものの再配布・転売・素材集への収録のみ。</span>
+    </div>
+    <div>ダウンロードすると KAKERA ライセンスに同意したものとみなします。／ 生成AIで作られた素材です。他ユーザーが類似の出力を得る場合があります。</div>
+    <nav>
+      <a href="#">ライセンス全文</a><a href="#">投稿規約</a><a href="#">削除の基準</a>
+      <a href="#">権利侵害の申立て</a><a href="#">プライバシー</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+const S = [
+  {name:"夜の書斎",                who:"@fuuuuuuma",  n:9,  tags:["Bロール","16:9"],      dl:1840, lk:212, c:["#101A2B","#1B3050","#3A5378","#C98A3E"]},
+  {name:"サムネ装飾：矢印・囲み",   who:"@creator_a", n:12, tags:["サムネ","透過PNG"],   dl:1620, lk:341, c:["#F4F5F6","#FF3B30","#1F6FEB","#FFCC00"], alpha:1},
+  {name:"抽象グラデ背景 12色",      who:"@fuuuuuuma",  n:12, tags:["テロップ下敷き"],      dl:1385, lk:174, c:["#4B2DBE","#B5279B","#1F8FD6","#22A88A"]},
+  {name:"光の粒・レンズフレア",     who:"@creator_b", n:10, tags:["重ね","透過PNG"],     dl:1120, lk:268, c:["#0A0A0C","#2E2452","#7C5CC4","#F2C56A"], alpha:1},
+  {name:"サムネ背景：驚き・爆発",   who:"@creator_a", n:10, tags:["サムネ","1280×720"],  dl:968,  lk:155, c:["#8E1200","#DE3A11","#F58C1F","#FFD84D"]},
+  {name:"編集の音",                who:"@fuuuuuuma",  n:12, tags:["SE / BGM"],           dl:842,  lk:131, c:["#26292E","#3A4048","#6B7480","#FF9F43"]},
+  {name:"紙とインクの質感",         who:"@creator_c", n:9,  tags:["区切り"],             dl:731,  lk:96,  c:["#EFEAE0","#D3CBBC","#7C7466","#1E1C18"]},
+  {name:"都市俯瞰",                who:"@fuuuuuuma",  n:8,  tags:["場面転換","ループ"],   dl:690,  lk:88,  c:["#2A3038","#4A545F","#7E8A96","#E0A46A"]},
+  {name:"データとグラフの抽象",     who:"@creator_b", n:9,  tags:["解説"],               dl:604,  lk:112, c:["#0B1E33","#14406B","#1E7FC2","#6FD8E8"]},
+  {name:"朝のカフェ卓上",           who:"@fuuuuuuma",  n:9,  tags:["導入"],               dl:551,  lk:73,  c:["#F0E4D2","#D9BE97","#B08A5E","#6E4F32"]},
+  {name:"基板・回路",              who:"@creator_c", n:8,  tags:["技術","ループ"],       dl:487,  lk:64,  c:["#04140E","#0C3524","#1C7A4E","#57E39A"]},
+  {name:"和の質感",                who:"@fuuuuuuma",  n:8,  tags:["落ち着き"],            dl:412,  lk:59,  c:["#EDE7DA","#BFC7C4","#6E7F82","#2F3B3E"]}
+];
+const FRESH = [
+  {name:"雨の窓ごし",     who:"@creator_d", n:8,  when:"3分前",  c:["#1A2028","#2E3A46","#5C7387","#A9C2D4"]},
+  {name:"手描きの吹き出し",who:"@creator_a", n:12, when:"1時間前",c:["#FFFFFF","#FFE14D","#FF6B6B","#111111"], alpha:1},
+  {name:"金属の質感",     who:"@creator_e", n:9,  when:"3時間前",c:["#3C4148","#8A9299","#C9D0D6","#5A6169"]},
+  {name:"ネオンの夜道",   who:"@creator_b", n:10, when:"昨日",   c:["#0B0715","#3A0F5C","#C4239B","#22D3EE"]}
+];
+const g=(c,a)=>`linear-gradient(${a}deg,${c[0]} 0%,${c[1]} 38%,${c[2]} 72%,${c[3]} 100%)`;
+const tiles=s=>`<div class="tiles">${s.c.map((_,i)=>`<i style="background:${g(s.c,26+i*38)}"></i>`).join('')}</div>`;
+const heart=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M12 20.5 3.8 12.3a5 5 0 0 1 7.1-7.1l1.1 1.1 1.1-1.1a5 5 0 1 1 7.1 7.1z"/></svg>`;
+const nf=n=>n.toLocaleString('en-US');
+
+/* ランキング */
+function drawRank(mode){
+  const list=[...S].sort((a,b)=> mode==='dl' ? b.dl-a.dl : b.lk-a.lk).slice(0,5);
+  rank.innerHTML=list.map((s,i)=>`
+    <div class="rk">
+      <div class="pos">${String(i+1).padStart(2,'0')}</div>
+      ${tiles(s)}
+      <div>
+        <h3>${s.name}</h3>
+        <div class="by">by <b>${s.who}</b> ・ ${s.n}のかけら</div>
+        <div class="tagline">${s.tags.map(t=>`<span class="tag${t==='透過PNG'?' alpha':''}">${t}</span>`).join('')}</div>
+      </div>
+      <div class="figs">
+        <div><strong>${nf(s.dl)}</strong><span>DOWNLOADS</span></div>
+        <div class="likes"><strong>${nf(s.lk)}</strong><span>LIKES</span></div>
+      </div>
+    </div>`).join('');
+}
+drawRank('dl');
+document.querySelectorAll('.seg').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.seg').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  drawRank(b.dataset.m);
+});
+
+/* 新着 */
+fresh.innerHTML=FRESH.map(s=>`
+  <article>
+    ${tiles(s)}
+    <h3>${s.name}</h3>
+    <div class="by">by ${s.who} ・ ${s.n}のかけら</div>
+    <div class="when">${s.when}</div>
+  </article>`).join('');
+
+/* 一覧 */
+grid.innerHTML=S.map((s,i)=>`
+  <article class="card">
+    ${tiles(s)}
+    <h3>${s.name}</h3>
+    <div class="by">by ${s.who} ・ ${s.n}のかけら${s.alpha?' ・ 透過PNG':''}</div>
+    <div class="foot">
+      <span class="dl">${nf(s.dl)} DL</span>
+      <button class="like" aria-pressed="${i===1?'true':'false'}" aria-label="いいね">${heart}<span>${nf(s.lk)}</span></button>
+    </div>
+  </article>`).join('');
+
+grid.addEventListener('click',e=>{
+  const b=e.target.closest('.like'); if(!b) return;
+  const on=b.getAttribute('aria-pressed')==='true';
+  const el=b.querySelector('span'); const v=+el.textContent.replace(/,/g,'');
+  b.setAttribute('aria-pressed',String(!on)); el.textContent=nf(on?v-1:v+1);
+});
+</script>
+</body>
+</html>

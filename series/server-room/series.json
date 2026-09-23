@@ -1,0 +1,91 @@
+{
+  "slug": "server-room",
+  "title": "サーバールーム",
+  "description": "データセンターのラック、配線、冷却設備を、冷たいシアン光で統一したテクノロジーBロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "天井の白色灯と弱いシアンの機器光",
+    "colorTemp": "5000K前後の寒色",
+    "framing": "目線の高さから35mmの広角。直線と奥行きを強調",
+    "texture": "黒い金属ラック、細かなメッシュ、反射を抑えた床"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "server-room-01",
+      "kind": "still",
+      "file": "pieces/server-room-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: symmetrical rows of matte black server racks seen down the central aisle\nScene/backdrop: a clean professional data center with no people\nStyle/medium: premium cinematic editorial photography, realistic materials\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong depth and clean negative space\nLighting/mood: cool cyan practical lighting with restrained contrast, calm and precise\nColor palette: charcoal black, steel grey, muted cyan\nMaterials/textures: brushed metal, perforated rack doors, polished anti-static floor\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "server-room-02",
+      "kind": "still",
+      "file": "pieces/server-room-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a close view of neatly routed network cables and subtle status lights\nScene/backdrop: a clean professional data center with no people\nStyle/medium: premium cinematic editorial photography, realistic materials\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong depth and clean negative space\nLighting/mood: cool cyan practical lighting with restrained contrast, calm and precise\nColor palette: charcoal black, steel grey, muted cyan\nMaterials/textures: brushed metal, perforated rack doors, polished anti-static floor\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "server-room-03",
+      "kind": "still",
+      "file": "pieces/server-room-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: rear rack doors and organized cable trays extending into the distance\nScene/backdrop: a clean professional data center with no people\nStyle/medium: premium cinematic editorial photography, realistic materials\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong depth and clean negative space\nLighting/mood: cool cyan practical lighting with restrained contrast, calm and precise\nColor palette: charcoal black, steel grey, muted cyan\nMaterials/textures: brushed metal, perforated rack doors, polished anti-static floor\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "server-room-04",
+      "kind": "still",
+      "file": "pieces/server-room-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: raised-floor cooling vents between two rows of server cabinets\nScene/backdrop: a clean professional data center with no people\nStyle/medium: premium cinematic editorial photography, realistic materials\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong depth and clean negative space\nLighting/mood: cool cyan practical lighting with restrained contrast, calm and precise\nColor palette: charcoal black, steel grey, muted cyan\nMaterials/textures: brushed metal, perforated rack doors, polished anti-static floor\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "server-room-05",
+      "kind": "still",
+      "file": "pieces/server-room-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a wide corner view of multiple server aisles with repeating geometry\nScene/backdrop: a clean professional data center with no people\nStyle/medium: premium cinematic editorial photography, realistic materials\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong depth and clean negative space\nLighting/mood: cool cyan practical lighting with restrained contrast, calm and precise\nColor palette: charcoal black, steel grey, muted cyan\nMaterials/textures: brushed metal, perforated rack doors, polished anti-static floor\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "server-room-06",
+      "kind": "still",
+      "file": "pieces/server-room-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "テクノロジー"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a closed data-center access door glowing softly at the end of an aisle\nScene/backdrop: a clean professional data center with no people\nStyle/medium: premium cinematic editorial photography, realistic materials\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong depth and clean negative space\nLighting/mood: cool cyan practical lighting with restrained contrast, calm and precise\nColor palette: charcoal black, steel grey, muted cyan\nMaterials/textures: brushed metal, perforated rack doors, polished anti-static floor\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "family-living-room",
+  "title": "家族のリビング",
+  "description": "家族のリビングについて、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "柔らかな自然光または家庭の暖色光",
+    "colorTemp": "3800〜4600Kの自然な暖色",
+    "framing": "16:9。生活背景、左右配置、家族、手元を網羅",
+    "texture": "肌、布、木、生活用品、植物の自然な実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "family-living-room-01",
+      "kind": "still",
+      "file": "pieces/family-living-room-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "家族",
+        "リビング",
+        "日常",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a bright realistic Japanese-context living room. Exactly zero people. Generic props clearly suggest spending ordinary relaxed time together at home, with generous clean negative space.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "family-living-room-02",
+      "kind": "still",
+      "file": "pieces/family-living-room-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "家族",
+        "リビング",
+        "日常",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: a fictional multigenerational family with adults, school-age children and healthy seniors. Show that single person preparing for, pausing during, or reflecting after spending ordinary relaxed time together at home, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a bright realistic Japanese-context living room. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "family-living-room-03",
+      "kind": "still",
+      "file": "pieces/family-living-room-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "家族",
+        "リビング",
+        "日常",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: a fictional multigenerational family with adults, school-age children and healthy seniors. Show that single person preparing for, pausing during, or reflecting after spending ordinary relaxed time together at home, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a bright realistic Japanese-context living room. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "family-living-room-04",
+      "kind": "still",
+      "file": "pieces/family-living-room-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "家族",
+        "リビング",
+        "日常",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: a fictional multigenerational family with adults, school-age children and healthy seniors. Show a credible interaction while spending ordinary relaxed time together at home, with separated bodies and natural eye lines in a bright realistic Japanese-context living room.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "family-living-room-05",
+      "kind": "still",
+      "file": "pieces/family-living-room-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "家族",
+        "リビング",
+        "日常",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: a fictional multigenerational family with adults, school-age children and healthy seniors. Each person does a believable part of spending ordinary relaxed time together at home, in a wide environmental view of a bright realistic Japanese-context living room.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "family-living-room-06",
+      "kind": "still",
+      "file": "pieces/family-living-room-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "家族",
+        "リビング",
+        "日常",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in spending ordinary relaxed time together at home, with physically plausible contact in a bright realistic Japanese-context living room. Avoid a full face.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "city-transport",
+  "title": "都市交通",
+  "description": "駅、線路、バスレーン、自転車ラックを、早朝の青い都市光でそろえた素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "早朝の青い環境光と弱い暖色灯",
+    "colorTemp": "4700K前後の寒色寄り",
+    "framing": "35mm目線。線路やレーンの導線",
+    "texture": "コンクリート、レール、ガラス、路面塗装"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "city-transport-01",
+      "kind": "still",
+      "file": "pieces/city-transport-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "交通"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an empty metro platform with repeating columns and tracks\nScene/backdrop: a clean modern city transport environment at early morning with no people and no vehicles in motion\nStyle/medium: realistic cinematic urban editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong leading lines\nLighting/mood: cool early-morning ambient light with restrained warm practical lights\nColor palette: steel grey, muted blue, concrete, soft amber accents\nMaterials/textures: concrete, steel rails, glass shelters, painted road surfaces\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "city-transport-02",
+      "kind": "still",
+      "file": "pieces/city-transport-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "交通"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: parallel railway tracks converging toward a distant city station\nScene/backdrop: a clean modern city transport environment at early morning with no people and no vehicles in motion\nStyle/medium: realistic cinematic urban editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong leading lines\nLighting/mood: cool early-morning ambient light with restrained warm practical lights\nColor palette: steel grey, muted blue, concrete, soft amber accents\nMaterials/textures: concrete, steel rails, glass shelters, painted road surfaces\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "city-transport-03",
+      "kind": "still",
+      "file": "pieces/city-transport-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "交通"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a clean empty bus lane with a generic glass shelter and no text\nScene/backdrop: a clean modern city transport environment at early morning with no people and no vehicles in motion\nStyle/medium: realistic cinematic urban editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong leading lines\nLighting/mood: cool early-morning ambient light with restrained warm practical lights\nColor palette: steel grey, muted blue, concrete, soft amber accents\nMaterials/textures: concrete, steel rails, glass shelters, painted road surfaces\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "city-transport-04",
+      "kind": "still",
+      "file": "pieces/city-transport-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "交通"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a row of unbranded city bicycles parked in a simple rack\nScene/backdrop: a clean modern city transport environment at early morning with no people and no vehicles in motion\nStyle/medium: realistic cinematic urban editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong leading lines\nLighting/mood: cool early-morning ambient light with restrained warm practical lights\nColor palette: steel grey, muted blue, concrete, soft amber accents\nMaterials/textures: concrete, steel rails, glass shelters, painted road surfaces\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "city-transport-05",
+      "kind": "still",
+      "file": "pieces/city-transport-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "交通"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a broad pedestrian crossing between quiet modern buildings\nScene/backdrop: a clean modern city transport environment at early morning with no people and no vehicles in motion\nStyle/medium: realistic cinematic urban editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong leading lines\nLighting/mood: cool early-morning ambient light with restrained warm practical lights\nColor palette: steel grey, muted blue, concrete, soft amber accents\nMaterials/textures: concrete, steel rails, glass shelters, painted road surfaces\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "city-transport-06",
+      "kind": "still",
+      "file": "pieces/city-transport-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "交通"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an elevated rail structure casting geometric shadows over an empty road\nScene/backdrop: a clean modern city transport environment at early morning with no people and no vehicles in motion\nStyle/medium: realistic cinematic urban editorial photography\nComposition/framing: wide 16:9 landscape, eye-level 35mm lens, strong leading lines\nLighting/mood: cool early-morning ambient light with restrained warm practical lights\nColor palette: steel grey, muted blue, concrete, soft amber accents\nMaterials/textures: concrete, steel rails, glass shelters, painted road surfaces\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

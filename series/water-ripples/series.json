@@ -1,0 +1,92 @@
+{
+  "slug": "water-ripples",
+  "title": "水面の波紋",
+  "description": "深い青緑の水面を真上から捉えた、静かな波紋背景。自然な干渉と控えめな反射で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "左上からの広い柔らかな昼光。ハイライトは控えめ",
+    "colorTemp": "6000Kの寒色昼光",
+    "framing": "岸や地平線を見せない完全な真俯瞰",
+    "texture": "自然な表面張力、繊細な波紋、細かなコースティクス"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "water-ripples-01",
+      "kind": "still",
+      "file": "pieces/water-ripples-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 water texture background for video editing and thumbnails\nPrimary request: a dark teal water surface with one broad circular ripple expanding from the lower left\nScene/backdrop: uninterrupted deep water surface with no shore, pool edge, or horizon\nStyle/medium: premium top-down water photography, photorealistic\nComposition/framing: perfect top-down wide view, ripple rings occupy the lower left, calm open water on the upper right\nLighting/mood: broad soft daylight from upper left, restrained moving highlights, calm and contemplative\nColor palette: dark teal, deep blue-green, muted cyan highlights\nMaterials/textures: physically plausible water ripples, smooth surface tension, delicate caustic detail\nConstraints: consistent 6000K cool daylight color temperature, sharp enough for 2048x1152 delivery, opaque image, water remains dark but detailed\nAvoid: people, faces, human figures, hands, swimmers, boats, leaves, fish, stones, shoreline, pool tiles, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, tropical turquoise, storm waves, foam, splashes"
+    },
+    {
+      "id": "water-ripples-02",
+      "kind": "still",
+      "file": "pieces/water-ripples-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 water texture background for video editing and thumbnails\nPrimary request: a dark teal water surface with two overlapping circular ripple systems creating delicate interference\nScene/backdrop: uninterrupted deep water surface with no shore, pool edge, or horizon\nStyle/medium: premium top-down water photography, photorealistic\nComposition/framing: perfect top-down wide view, intersections near the center, calm open corners\nLighting/mood: broad soft daylight from upper left, restrained moving highlights, calm and contemplative\nColor palette: dark teal, deep blue-green, muted cyan highlights\nMaterials/textures: physically plausible water ripples, smooth surface tension, delicate caustic detail\nConstraints: consistent 6000K cool daylight color temperature, sharp enough for 2048x1152 delivery, opaque image, water remains dark but detailed\nAvoid: people, faces, human figures, hands, swimmers, boats, leaves, fish, stones, shoreline, pool tiles, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, tropical turquoise, storm waves, foam, splashes"
+    },
+    {
+      "id": "water-ripples-03",
+      "kind": "still",
+      "file": "pieces/water-ripples-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 water texture background for video editing and thumbnails\nPrimary request: a dark teal water surface with long parallel wind ripples flowing diagonally\nScene/backdrop: uninterrupted deep water surface with no shore, pool edge, or horizon\nStyle/medium: premium top-down water photography, photorealistic\nComposition/framing: perfect top-down wide view, diagonal rhythm from upper left to lower right, even full-frame texture\nLighting/mood: broad soft daylight from upper left, restrained moving highlights, calm and contemplative\nColor palette: dark teal, deep blue-green, muted cyan highlights\nMaterials/textures: physically plausible water ripples, smooth surface tension, delicate caustic detail\nConstraints: consistent 6000K cool daylight color temperature, sharp enough for 2048x1152 delivery, opaque image, water remains dark but detailed\nAvoid: people, faces, human figures, hands, swimmers, boats, leaves, fish, stones, shoreline, pool tiles, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, tropical turquoise, storm waves, foam, splashes"
+    },
+    {
+      "id": "water-ripples-04",
+      "kind": "still",
+      "file": "pieces/water-ripples-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 water texture background for video editing and thumbnails\nPrimary request: a dark teal water surface with a low smooth wave entering from the bottom edge and fading upward\nScene/backdrop: uninterrupted deep water surface with no shore, pool edge, or horizon\nStyle/medium: premium top-down water photography, photorealistic\nComposition/framing: perfect top-down wide view, wave energy concentrated along the bottom third, calm upper half\nLighting/mood: broad soft daylight from upper left, restrained moving highlights, calm and contemplative\nColor palette: dark teal, deep blue-green, muted cyan highlights\nMaterials/textures: physically plausible water ripples, smooth surface tension, delicate caustic detail\nConstraints: consistent 6000K cool daylight color temperature, sharp enough for 2048x1152 delivery, opaque image, water remains dark but detailed\nAvoid: people, faces, human figures, hands, swimmers, boats, leaves, fish, stones, shoreline, pool tiles, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, tropical turquoise, storm waves, foam, splashes"
+    },
+    {
+      "id": "water-ripples-05",
+      "kind": "still",
+      "file": "pieces/water-ripples-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 water texture background for video editing and thumbnails\nPrimary request: a dark teal water surface with fine concentric ripples centered on the right third\nScene/backdrop: uninterrupted deep water surface with no shore, pool edge, or horizon\nStyle/medium: premium top-down water photography, photorealistic\nComposition/framing: perfect top-down wide view, ripple center on the right, calm open water on the left\nLighting/mood: broad soft daylight from upper left, restrained moving highlights, calm and contemplative\nColor palette: dark teal, deep blue-green, muted cyan highlights\nMaterials/textures: physically plausible water ripples, smooth surface tension, delicate caustic detail\nConstraints: consistent 6000K cool daylight color temperature, sharp enough for 2048x1152 delivery, opaque image, water remains dark but detailed\nAvoid: people, faces, human figures, hands, swimmers, boats, leaves, fish, stones, shoreline, pool tiles, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, tropical turquoise, storm waves, foam, splashes"
+    },
+    {
+      "id": "water-ripples-06",
+      "kind": "still",
+      "file": "pieces/water-ripples-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 water texture background for video editing and thumbnails\nPrimary request: a dark teal water surface with soft crossing wavelets forming an organic diamond interference field\nScene/backdrop: uninterrupted deep water surface with no shore, pool edge, or horizon\nStyle/medium: premium top-down water photography, photorealistic\nComposition/framing: perfect top-down wide view, subtle even pattern across the frame, no single focal point\nLighting/mood: broad soft daylight from upper left, restrained moving highlights, calm and contemplative\nColor palette: dark teal, deep blue-green, muted cyan highlights\nMaterials/textures: physically plausible water ripples, smooth surface tension, delicate caustic detail\nConstraints: consistent 6000K cool daylight color temperature, sharp enough for 2048x1152 delivery, opaque image, water remains dark but detailed\nAvoid: people, faces, human figures, hands, swimmers, boats, leaves, fish, stones, shoreline, pool tiles, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, tropical turquoise, storm waves, foam, splashes"
+    }
+  ]
+}
+

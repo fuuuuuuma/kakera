@@ -1,0 +1,115 @@
+{
+  "slug": "hotel-checkin",
+  "title": "ホテルのチェックイン",
+  "description": "ホテルのチェックインについて、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "場所と時間帯に合う自然光",
+    "colorTemp": "4000〜5200Kの場所に応じた光",
+    "framing": "16:9。場所、左右配置、同行者、集団、旅道具を網羅",
+    "texture": "建築、路面、空、植物、乗り物、衣服の実在感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "hotel-checkin-01",
+      "kind": "still",
+      "file": "pieces/hotel-checkin-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "旅行・街・交通",
+        "ホテル",
+        "旅行",
+        "接客",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 旅行・街・交通 stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a tasteful generic hotel lobby and reception desk. Exactly zero people. Generic props clearly suggest arriving and completing check-in, with generous clean negative space.\nStyle: photorealistic cinematic travel editorial photography, spontaneous but clean, with a strong sense of place.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: natural location light appropriate to the time and weather.\nPalette: sky blue, stone grey, sand beige, muted warm accents, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "hotel-checkin-02",
+      "kind": "still",
+      "file": "pieces/hotel-checkin-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "旅行・街・交通",
+        "ホテル",
+        "旅行",
+        "接客",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 旅行・街・交通 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional travelers, families and hotel staff. Show that single person preparing for, pausing during, or reflecting after arriving and completing check-in, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a tasteful generic hotel lobby and reception desk. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic cinematic travel editorial photography, spontaneous but clean, with a strong sense of place.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: natural location light appropriate to the time and weather.\nPalette: sky blue, stone grey, sand beige, muted warm accents, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "hotel-checkin-03",
+      "kind": "still",
+      "file": "pieces/hotel-checkin-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "旅行・街・交通",
+        "ホテル",
+        "旅行",
+        "接客",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 旅行・街・交通 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional travelers, families and hotel staff. Show that single person preparing for, pausing during, or reflecting after arriving and completing check-in, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a tasteful generic hotel lobby and reception desk. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic cinematic travel editorial photography, spontaneous but clean, with a strong sense of place.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: natural location light appropriate to the time and weather.\nPalette: sky blue, stone grey, sand beige, muted warm accents, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "hotel-checkin-04",
+      "kind": "still",
+      "file": "pieces/hotel-checkin-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "旅行・街・交通",
+        "ホテル",
+        "旅行",
+        "接客",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 旅行・街・交通 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional travelers, families and hotel staff. Show a credible interaction while arriving and completing check-in, with separated bodies and natural eye lines in a tasteful generic hotel lobby and reception desk.\nStyle: photorealistic cinematic travel editorial photography, spontaneous but clean, with a strong sense of place.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: natural location light appropriate to the time and weather.\nPalette: sky blue, stone grey, sand beige, muted warm accents, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "hotel-checkin-05",
+      "kind": "still",
+      "file": "pieces/hotel-checkin-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "旅行・街・交通",
+        "ホテル",
+        "旅行",
+        "接客",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 旅行・街・交通 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional travelers, families and hotel staff. Each person does a believable part of arriving and completing check-in, in a wide environmental view of a tasteful generic hotel lobby and reception desk.\nStyle: photorealistic cinematic travel editorial photography, spontaneous but clean, with a strong sense of place.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: natural location light appropriate to the time and weather.\nPalette: sky blue, stone grey, sand beige, muted warm accents, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "hotel-checkin-06",
+      "kind": "still",
+      "file": "pieces/hotel-checkin-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "旅行・街・交通",
+        "ホテル",
+        "旅行",
+        "接客",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 旅行・街・交通 stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in arriving and completing check-in, with physically plausible contact in a tasteful generic hotel lobby and reception desk. Avoid a full face.\nStyle: photorealistic cinematic travel editorial photography, spontaneous but clean, with a strong sense of place.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: natural location light appropriate to the time and weather.\nPalette: sky blue, stone grey, sand beige, muted warm accents, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

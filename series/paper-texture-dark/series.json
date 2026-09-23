@@ -1,0 +1,92 @@
+{
+  "slug": "paper-texture-dark",
+  "title": "暗い紙テクスチャ",
+  "description": "明るい文字や図版が映える、暗い無地紙の高精細テクスチャ。黒を潰さず、紙目が見える露出で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "真上からの低照度な拡散光。ほぼ影なし",
+    "colorTemp": "4000Kのニュートラル",
+    "framing": "紙面が画面全体を満たす正対俯瞰",
+    "texture": "暗部にも残る繊維・紙目・細かな凹凸"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "paper-texture-dark-01",
+      "kind": "still",
+      "file": "pieces/paper-texture-dark-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 dark paper texture background for video editing and thumbnails\nPrimary request: an unmarked charcoal-black cotton paper surface with very fine natural fibers\nScene/backdrop: full-frame dark paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse low-key studio light from directly above, nearly shadowless, quiet and tactile\nColor palette: charcoal black, graphite, deep navy-black, muted neutral fibers only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 4000K neutral color temperature, even dark exposure with visible texture, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains, crushed blacks"
+    },
+    {
+      "id": "paper-texture-dark-02",
+      "kind": "still",
+      "file": "pieces/paper-texture-dark-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 dark paper texture background for video editing and thumbnails\nPrimary request: an unmarked deep graphite handmade paper surface with sparse pale fibers and delicate organic variation\nScene/backdrop: full-frame dark paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse low-key studio light from directly above, nearly shadowless, quiet and tactile\nColor palette: charcoal black, graphite, deep navy-black, muted neutral fibers only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 4000K neutral color temperature, even dark exposure with visible texture, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains, crushed blacks"
+    },
+    {
+      "id": "paper-texture-dark-03",
+      "kind": "still",
+      "file": "pieces/paper-texture-dark-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 dark paper texture background for video editing and thumbnails\nPrimary request: an unmarked midnight-navy recycled paper surface with tiny muted flecks and restrained grain\nScene/backdrop: full-frame dark paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse low-key studio light from directly above, nearly shadowless, quiet and tactile\nColor palette: charcoal black, graphite, deep navy-black, muted neutral fibers only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 4000K neutral color temperature, even dark exposure with visible texture, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains, crushed blacks"
+    },
+    {
+      "id": "paper-texture-dark-04",
+      "kind": "still",
+      "file": "pieces/paper-texture-dark-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 dark paper texture background for video editing and thumbnails\nPrimary request: an unmarked black-brown pressed kraft paper surface with subtle pulp variation\nScene/backdrop: full-frame dark paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse low-key studio light from directly above, nearly shadowless, quiet and tactile\nColor palette: charcoal black, graphite, deep navy-black, muted neutral fibers only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 4000K neutral color temperature, even dark exposure with visible texture, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains, crushed blacks"
+    },
+    {
+      "id": "paper-texture-dark-05",
+      "kind": "still",
+      "file": "pieces/paper-texture-dark-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 dark paper texture background for video editing and thumbnails\nPrimary request: an unmarked deep charcoal linen paper surface with a very subtle woven emboss\nScene/backdrop: full-frame dark paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse low-key studio light from directly above, nearly shadowless, quiet and tactile\nColor palette: charcoal black, graphite, deep navy-black, muted neutral fibers only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 4000K neutral color temperature, even dark exposure with visible texture, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains, crushed blacks"
+    },
+    {
+      "id": "paper-texture-dark-06",
+      "kind": "still",
+      "file": "pieces/paper-texture-dark-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: seamless 16:9 dark paper texture background for video editing and thumbnails\nPrimary request: an unmarked soft-black watercolor paper surface with fine cold-press tooth and gentle valleys\nScene/backdrop: full-frame dark paper surface\nStyle/medium: high-resolution archival material scan, photorealistic\nComposition/framing: perfectly flat top-down macro view, texture fills the entire 16:9 frame, no edges visible\nLighting/mood: broad diffuse low-key studio light from directly above, nearly shadowless, quiet and tactile\nColor palette: charcoal black, graphite, deep navy-black, muted neutral fibers only\nMaterials/textures: authentic paper fibers with restrained microcontrast, no stains\nConstraints: consistent 4000K neutral color temperature, even dark exposure with visible texture, sharp enough for 2048x1152 delivery, opaque image, tile-friendly edges\nAvoid: people, faces, hands, objects, writing, drawings, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, folds, torn edges, strong shadows, colored stains, crushed blacks"
+    }
+  ]
+}
+

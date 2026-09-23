@@ -1,0 +1,42 @@
+{
+  "slug": "speech-bands",
+  "title": "吹き出しと帯",
+  "description": "テロップの下に敷く帯と、セリフを入れる吹き出し。文字を置く前提で中を空けてあります。そのまま重ねられる透過PNGです。",
+  "audience": ["editor", "thumbnail"],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "均一。影を落とさない（重ねたときに浮かないため）",
+    "colorTemp": "白・黒・黄・青の4系統。中は塗りつぶすか空ける",
+    "framing": "正方形の中央に1つ。文字が入る余白を大きく取る",
+    "texture": "手描きの太い輪郭。角は丸めず荒く残す"
+  },
+  "generator": { "service": "higgsfield", "model": "nano_banana_pro", "version": "2026-08" },
+  "promptPublic": true,
+  "pieces": [
+    { "id": "speech-bands-01", "kind": "still", "file": "pieces/speech-bands-01.png", "alpha": true, "useTags": ["吹き出し", "透過"],
+      "prompt": "a rounded rectangle speech bubble with a short pointed tail at the bottom left, solid white fill with a thick black hand-drawn outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bubble and the background" },
+    { "id": "speech-bands-02", "kind": "still", "file": "pieces/speech-bands-02.png", "alpha": true, "useTags": ["吹き出し", "透過"],
+      "prompt": "a jagged spiky burst speech bubble like a shout, solid bright yellow fill with a thick black hand-drawn outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bubble and the background" },
+    { "id": "speech-bands-03", "kind": "still", "file": "pieces/speech-bands-03.png", "alpha": true, "useTags": ["吹き出し", "透過"],
+      "prompt": "a cloud shaped thought bubble with three small circles trailing to the lower right, solid white fill with a thick black hand-drawn outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bubble and the background" },
+    { "id": "speech-bands-04", "kind": "still", "file": "pieces/speech-bands-04.png", "alpha": true, "useTags": ["吹き出し", "透過"],
+      "prompt": "a rectangular speech bubble with sharp corners and a triangular tail at the bottom right, solid deep blue fill with a thick white outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bubble and the background" },
+    { "id": "speech-bands-05", "kind": "still", "file": "pieces/speech-bands-05.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal banner bar with slightly angled cut ends, solid black fill, flat and simple, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bar and the background" },
+    { "id": "speech-bands-06", "kind": "still", "file": "pieces/speech-bands-06.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal banner bar with a bright yellow fill and a thin black border, flat and simple, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bar and the background" },
+    { "id": "speech-bands-07", "kind": "still", "file": "pieces/speech-bands-07.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal ribbon banner with folded ends on both sides, solid deep red fill, flat and simple, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the ribbon and the background" },
+    { "id": "speech-bands-08", "kind": "still", "file": "pieces/speech-bands-08.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal brush stroke bar with rough uneven edges, solid black ink, flat and simple, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the stroke and the background" },
+    { "id": "speech-bands-09", "kind": "still", "file": "pieces/speech-bands-09.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal rounded pill shaped bar, solid white fill with a thick black outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bar and the background" },
+    { "id": "speech-bands-10", "kind": "still", "file": "pieces/speech-bands-10.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal bar made of two stacked strips, the upper strip bright yellow and the lower strip black, flat and simple, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bars and the background" },
+    { "id": "speech-bands-11", "kind": "still", "file": "pieces/speech-bands-11.png", "alpha": true, "useTags": ["吹き出し", "透過"],
+      "prompt": "an oval speech bubble with a long thin curved tail pointing to the upper left, solid white fill with a thick black hand-drawn outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the bubble and the background" },
+    { "id": "speech-bands-12", "kind": "still", "file": "pieces/speech-bands-12.png", "alpha": true, "useTags": ["テロップ下敷き", "透過"],
+      "prompt": "a wide horizontal torn paper strip with ragged top and bottom edges, solid off white fill with a subtle grey edge, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the strip and the background" }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "remote-hybrid-work",
+  "title": "ハイブリッドワーク",
+  "description": "ハイブリッドワークについて、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "清潔な昼光と職場の実用照明",
+    "colorTemp": "4400〜5000Kの中立光",
+    "framing": "16:9。背景、左右配置、2人、チーム、手元を網羅",
+    "texture": "肌、衣服、紙、木、ガラス、金属の自然な実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "remote-hybrid-work-01",
+      "kind": "still",
+      "file": "pieces/remote-hybrid-work-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "ビジネス・仕事",
+        "在宅勤務",
+        "オンライン",
+        "働き方",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA ビジネス・仕事 stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of connected home-office and generic meeting-room environments with unreadable screens. Exactly zero people. Generic props clearly suggest working between remote and in-person settings, with generous clean negative space.\nStyle: photorealistic contemporary commercial editorial photography, credible workplace behavior, understated and natural.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean motivated daylight mixed with realistic workplace practical light.\nPalette: navy, pale blue, warm wood, neutral skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "remote-hybrid-work-02",
+      "kind": "still",
+      "file": "pieces/remote-hybrid-work-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "ビジネス・仕事",
+        "在宅勤務",
+        "オンライン",
+        "働き方",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA ビジネス・仕事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional adult workers of varied backgrounds using generic devices. Show that single person preparing for, pausing during, or reflecting after working between remote and in-person settings, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of connected home-office and generic meeting-room environments with unreadable screens. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic contemporary commercial editorial photography, credible workplace behavior, understated and natural.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean motivated daylight mixed with realistic workplace practical light.\nPalette: navy, pale blue, warm wood, neutral skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "remote-hybrid-work-03",
+      "kind": "still",
+      "file": "pieces/remote-hybrid-work-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "ビジネス・仕事",
+        "在宅勤務",
+        "オンライン",
+        "働き方",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA ビジネス・仕事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional adult workers of varied backgrounds using generic devices. Show that single person preparing for, pausing during, or reflecting after working between remote and in-person settings, positioned on the right third, with clean Japanese-caption space on the left, in another variation of connected home-office and generic meeting-room environments with unreadable screens. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic contemporary commercial editorial photography, credible workplace behavior, understated and natural.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean motivated daylight mixed with realistic workplace practical light.\nPalette: navy, pale blue, warm wood, neutral skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "remote-hybrid-work-04",
+      "kind": "still",
+      "file": "pieces/remote-hybrid-work-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "ビジネス・仕事",
+        "在宅勤務",
+        "オンライン",
+        "働き方",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA ビジネス・仕事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional adult workers of varied backgrounds using generic devices. Show a credible interaction while working between remote and in-person settings, with separated bodies and natural eye lines in connected home-office and generic meeting-room environments with unreadable screens.\nStyle: photorealistic contemporary commercial editorial photography, credible workplace behavior, understated and natural.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean motivated daylight mixed with realistic workplace practical light.\nPalette: navy, pale blue, warm wood, neutral skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "remote-hybrid-work-05",
+      "kind": "still",
+      "file": "pieces/remote-hybrid-work-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "ビジネス・仕事",
+        "在宅勤務",
+        "オンライン",
+        "働き方",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA ビジネス・仕事 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional adult workers of varied backgrounds using generic devices. Each person does a believable part of working between remote and in-person settings, in a wide environmental view of connected home-office and generic meeting-room environments with unreadable screens.\nStyle: photorealistic contemporary commercial editorial photography, credible workplace behavior, understated and natural.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean motivated daylight mixed with realistic workplace practical light.\nPalette: navy, pale blue, warm wood, neutral skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "remote-hybrid-work-06",
+      "kind": "still",
+      "file": "pieces/remote-hybrid-work-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "ビジネス・仕事",
+        "在宅勤務",
+        "オンライン",
+        "働き方",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA ビジネス・仕事 stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in working between remote and in-person settings, with physically plausible contact in connected home-office and generic meeting-room environments with unreadable screens. Avoid a full face.\nStyle: photorealistic contemporary commercial editorial photography, credible workplace behavior, understated and natural.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: clean motivated daylight mixed with realistic workplace practical light.\nPalette: navy, pale blue, warm wood, neutral skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "ink-in-water",
+  "title": "水中インク",
+  "description": "淡い水中で青と橙のインクが溶け合う、高速度撮影風の抽象背景。明るい逆光と繊細な拡散表現で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "広い拡散逆光。水を明るく清潔に見せる",
+    "colorTemp": "5500Kの昼光色",
+    "framing": "水槽の縁を見せないワイドなマクロ構図",
+    "texture": "半透明の色素雲、柔らかな膨らみ、細く枝分かれする筋"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "ink-in-water-01",
+      "kind": "still",
+      "file": "pieces/ink-in-water-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: royal-blue and burnt-orange ink clouds descending through clear water in two soft columns that meet near the center\nScene/backdrop: luminous pale-gray water tank with no visible tank edges\nStyle/medium: high-speed macro ink-in-water photography, photorealistic\nComposition/framing: wide landscape macro tank view, ink concentrated in the middle third, pale negative space on both sides, no horizon\nLighting/mood: broad diffused backlight, clean luminous water, meditative and organic\nColor palette: royal blue, muted burnt orange, pale cool gray, restrained gradients\nMaterials/textures: translucent pigment clouds, soft billows, fine branching tendrils, realistic diffusion\nConstraints: consistent 5500K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, animals, flowers, recognizable objects, tank edges, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, muddy brown, excessive saturation"
+    },
+    {
+      "id": "ink-in-water-02",
+      "kind": "still",
+      "file": "pieces/ink-in-water-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: royal-blue and burnt-orange ink spreading horizontally through clear water in layered translucent shelves\nScene/backdrop: luminous pale-gray water tank with no visible tank edges\nStyle/medium: high-speed macro ink-in-water photography, photorealistic\nComposition/framing: wide landscape macro tank view, flow across the upper half, pale negative space below, no horizon\nLighting/mood: broad diffused backlight, clean luminous water, meditative and organic\nColor palette: royal blue, muted burnt orange, pale cool gray, restrained gradients\nMaterials/textures: translucent pigment clouds, soft billows, fine branching tendrils, realistic diffusion\nConstraints: consistent 5500K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, animals, flowers, recognizable objects, tank edges, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, muddy brown, excessive saturation"
+    },
+    {
+      "id": "ink-in-water-03",
+      "kind": "still",
+      "file": "pieces/ink-in-water-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: royal-blue and burnt-orange ink curling into a broad underwater spiral with an open center\nScene/backdrop: luminous pale-gray water tank with no visible tank edges\nStyle/medium: high-speed macro ink-in-water photography, photorealistic\nComposition/framing: wide landscape macro tank view, spiral weighted to the left third, pale negative space on the right, no horizon\nLighting/mood: broad diffused backlight, clean luminous water, meditative and organic\nColor palette: royal blue, muted burnt orange, pale cool gray, restrained gradients\nMaterials/textures: translucent pigment clouds, soft billows, fine branching tendrils, realistic diffusion\nConstraints: consistent 5500K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, animals, flowers, recognizable objects, tank edges, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, muddy brown, excessive saturation"
+    },
+    {
+      "id": "ink-in-water-04",
+      "kind": "still",
+      "file": "pieces/ink-in-water-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: royal-blue and burnt-orange ink blooming downward like soft underwater petals without resembling a real flower\nScene/backdrop: luminous pale-gray water tank with no visible tank edges\nStyle/medium: high-speed macro ink-in-water photography, photorealistic\nComposition/framing: wide landscape macro tank view, bloom anchored at top center, pale negative space in lower corners, no horizon\nLighting/mood: broad diffused backlight, clean luminous water, meditative and organic\nColor palette: royal blue, muted burnt orange, pale cool gray, restrained gradients\nMaterials/textures: translucent pigment clouds, soft billows, fine branching tendrils, realistic diffusion\nConstraints: consistent 5500K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, animals, flowers, recognizable objects, tank edges, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, muddy brown, excessive saturation"
+    },
+    {
+      "id": "ink-in-water-05",
+      "kind": "still",
+      "file": "pieces/ink-in-water-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: royal-blue and burnt-orange ink forming a diagonal plume from upper right to lower left with delicate branching tendrils\nScene/backdrop: luminous pale-gray water tank with no visible tank edges\nStyle/medium: high-speed macro ink-in-water photography, photorealistic\nComposition/framing: wide landscape macro tank view, diagonal plume with pale negative space at upper left, no horizon\nLighting/mood: broad diffused backlight, clean luminous water, meditative and organic\nColor palette: royal blue, muted burnt orange, pale cool gray, restrained gradients\nMaterials/textures: translucent pigment clouds, soft billows, fine branching tendrils, realistic diffusion\nConstraints: consistent 5500K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, animals, flowers, recognizable objects, tank edges, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, muddy brown, excessive saturation"
+    },
+    {
+      "id": "ink-in-water-06",
+      "kind": "still",
+      "file": "pieces/ink-in-water-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: royal-blue and burnt-orange ink separating into three suspended cloud layers with visible diffusion gradients\nScene/backdrop: luminous pale-gray water tank with no visible tank edges\nStyle/medium: high-speed macro ink-in-water photography, photorealistic\nComposition/framing: wide landscape macro tank view, three layers across the frame, quiet pale band near the top, no horizon\nLighting/mood: broad diffused backlight, clean luminous water, meditative and organic\nColor palette: royal blue, muted burnt orange, pale cool gray, restrained gradients\nMaterials/textures: translucent pigment clouds, soft billows, fine branching tendrils, realistic diffusion\nConstraints: consistent 5500K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, animals, flowers, recognizable objects, tank edges, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, muddy brown, excessive saturation"
+    }
+  ]
+}
+

@@ -1,0 +1,91 @@
+{
+  "slug": "travel-essentials",
+  "title": "旅の持ち物",
+  "description": "バッグ、サングラス、地図、カメラ小物を、明るい旅支度の俯瞰でそろえた素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "明るい夏の拡散光",
+    "colorTemp": "4500K前後の自然光",
+    "framing": "真上からのフラットレイ",
+    "texture": "帆布、無地の紙、ガラス、織物"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "travel-essentials-01",
+      "kind": "still",
+      "file": "pieces/travel-essentials-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "旅行"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a folded canvas bag with sunglasses and a blank paper map\nScene/backdrop: a clean travel packing surface with generic unbranded objects and no people\nStyle/medium: bright realistic lifestyle flat-lay photography\nComposition/framing: wide 16:9 landscape, top-down flat lay, balanced negative space\nLighting/mood: soft daylight with a light summer feel\nColor palette: sand beige, sky blue, canvas white, warm leather brown\nMaterials/textures: canvas, paper map without labels, glass lenses, woven fabric\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "travel-essentials-02",
+      "kind": "still",
+      "file": "pieces/travel-essentials-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "旅行"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a compact unbranded camera pouch beside a woven strap and lens cloth\nScene/backdrop: a clean travel packing surface with generic unbranded objects and no people\nStyle/medium: bright realistic lifestyle flat-lay photography\nComposition/framing: wide 16:9 landscape, top-down flat lay, balanced negative space\nLighting/mood: soft daylight with a light summer feel\nColor palette: sand beige, sky blue, canvas white, warm leather brown\nMaterials/textures: canvas, paper map without labels, glass lenses, woven fabric\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "travel-essentials-03",
+      "kind": "still",
+      "file": "pieces/travel-essentials-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "旅行"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a plain notebook, pen, and blank luggage tag arranged for travel\nScene/backdrop: a clean travel packing surface with generic unbranded objects and no people\nStyle/medium: bright realistic lifestyle flat-lay photography\nComposition/framing: wide 16:9 landscape, top-down flat lay, balanced negative space\nLighting/mood: soft daylight with a light summer feel\nColor palette: sand beige, sky blue, canvas white, warm leather brown\nMaterials/textures: canvas, paper map without labels, glass lenses, woven fabric\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "travel-essentials-04",
+      "kind": "still",
+      "file": "pieces/travel-essentials-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "旅行"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: rolled clothing and a small toiletry pouch inside an open suitcase corner\nScene/backdrop: a clean travel packing surface with generic unbranded objects and no people\nStyle/medium: bright realistic lifestyle flat-lay photography\nComposition/framing: wide 16:9 landscape, top-down flat lay, balanced negative space\nLighting/mood: soft daylight with a light summer feel\nColor palette: sand beige, sky blue, canvas white, warm leather brown\nMaterials/textures: canvas, paper map without labels, glass lenses, woven fabric\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "travel-essentials-05",
+      "kind": "still",
+      "file": "pieces/travel-essentials-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "旅行"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a reusable water bottle, sun hat, and folded light scarf\nScene/backdrop: a clean travel packing surface with generic unbranded objects and no people\nStyle/medium: bright realistic lifestyle flat-lay photography\nComposition/framing: wide 16:9 landscape, top-down flat lay, balanced negative space\nLighting/mood: soft daylight with a light summer feel\nColor palette: sand beige, sky blue, canvas white, warm leather brown\nMaterials/textures: canvas, paper map without labels, glass lenses, woven fabric\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "travel-essentials-06",
+      "kind": "still",
+      "file": "pieces/travel-essentials-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "旅行"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: generic travel adapters and neatly coiled charging cables with no logos\nScene/backdrop: a clean travel packing surface with generic unbranded objects and no people\nStyle/medium: bright realistic lifestyle flat-lay photography\nComposition/framing: wide 16:9 landscape, top-down flat lay, balanced negative space\nLighting/mood: soft daylight with a light summer feel\nColor palette: sand beige, sky blue, canvas white, warm leather brown\nMaterials/textures: canvas, paper map without labels, glass lenses, woven fabric\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

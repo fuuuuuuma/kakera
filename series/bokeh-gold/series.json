@@ -1,0 +1,92 @@
+{
+  "slug": "bokeh-gold",
+  "title": "金色ボケ",
+  "description": "深い黒に金色の光がにじむ、タイトルや人物を重ねやすいボケ背景。暖かな色温度と自然なレンズボケで統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "低照度の金色グロー。白飛びを抑える",
+    "colorTemp": "3000Kの暖色",
+    "framing": "余白位置を変えた浅い被写界深度のワイド構図",
+    "texture": "柔らかな円形レンズボケと自然な明暗差"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "bokeh-gold-01",
+      "kind": "still",
+      "file": "pieces/bokeh-gold-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 bokeh background for video editing and thumbnails\nPrimary request: soft golden circular bokeh lights clustered along the lower right with a sparse trail toward the center\nScene/backdrop: seamless deep espresso-black field with no visible environment\nStyle/medium: premium defocused light photography, photorealistic lens bokeh\nComposition/framing: wide landscape, shallow focus, large dark negative space across the upper left, no horizon or recognizable scene\nLighting/mood: warm low-key glow, elegant and celebratory without being festive-specific\nColor palette: antique gold, warm amber, deep espresso black\nMaterials/textures: smooth optical bokeh discs with soft edges, subtle brightness variation, realistic depth\nConstraints: consistent 3000K warm color temperature, sharp canvas with intentionally defocused light circles, 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, candles, string lights, buildings, holiday symbols, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, hearts, excessive bloom, white clipping"
+    },
+    {
+      "id": "bokeh-gold-02",
+      "kind": "still",
+      "file": "pieces/bokeh-gold-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 bokeh background for video editing and thumbnails\nPrimary request: soft golden circular bokeh lights forming a gentle diagonal cascade from upper left to lower right\nScene/backdrop: seamless deep espresso-black field with no visible environment\nStyle/medium: premium defocused light photography, photorealistic lens bokeh\nComposition/framing: wide landscape, shallow focus, open dark triangle at lower left, no horizon or recognizable scene\nLighting/mood: warm low-key glow, elegant and celebratory without being festive-specific\nColor palette: antique gold, warm amber, deep espresso black\nMaterials/textures: smooth optical bokeh discs with soft edges, subtle brightness variation, realistic depth\nConstraints: consistent 3000K warm color temperature, sharp canvas with intentionally defocused light circles, 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, candles, string lights, buildings, holiday symbols, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, hearts, excessive bloom, white clipping"
+    },
+    {
+      "id": "bokeh-gold-03",
+      "kind": "still",
+      "file": "pieces/bokeh-gold-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 bokeh background for video editing and thumbnails\nPrimary request: soft golden circular bokeh lights distributed as a low glowing horizon across the bottom quarter without a visible location\nScene/backdrop: seamless deep espresso-black field with no visible environment\nStyle/medium: premium defocused light photography, photorealistic lens bokeh\nComposition/framing: wide landscape, shallow focus, expansive dark negative space above, no horizon or recognizable scene\nLighting/mood: warm low-key glow, elegant and celebratory without being festive-specific\nColor palette: antique gold, warm amber, deep espresso black\nMaterials/textures: smooth optical bokeh discs with soft edges, subtle brightness variation, realistic depth\nConstraints: consistent 3000K warm color temperature, sharp canvas with intentionally defocused light circles, 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, candles, string lights, buildings, holiday symbols, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, hearts, excessive bloom, white clipping"
+    },
+    {
+      "id": "bokeh-gold-04",
+      "kind": "still",
+      "file": "pieces/bokeh-gold-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 bokeh background for video editing and thumbnails\nPrimary request: soft golden circular bokeh lights clustered near both far edges while the center remains dark and open\nScene/backdrop: seamless deep espresso-black field with no visible environment\nStyle/medium: premium defocused light photography, photorealistic lens bokeh\nComposition/framing: wide landscape, shallow focus, symmetrical edge clusters and clean center, no horizon or recognizable scene\nLighting/mood: warm low-key glow, elegant and celebratory without being festive-specific\nColor palette: antique gold, warm amber, deep espresso black\nMaterials/textures: smooth optical bokeh discs with soft edges, subtle brightness variation, realistic depth\nConstraints: consistent 3000K warm color temperature, sharp canvas with intentionally defocused light circles, 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, candles, string lights, buildings, holiday symbols, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, hearts, excessive bloom, white clipping"
+    },
+    {
+      "id": "bokeh-gold-05",
+      "kind": "still",
+      "file": "pieces/bokeh-gold-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 bokeh background for video editing and thumbnails\nPrimary request: soft golden circular bokeh lights forming a loose arc around an empty dark center\nScene/backdrop: seamless deep espresso-black field with no visible environment\nStyle/medium: premium defocused light photography, photorealistic lens bokeh\nComposition/framing: wide landscape, shallow focus, arc weighted to the upper half with quiet lower center, no horizon or recognizable scene\nLighting/mood: warm low-key glow, elegant and celebratory without being festive-specific\nColor palette: antique gold, warm amber, deep espresso black\nMaterials/textures: smooth optical bokeh discs with soft edges, subtle brightness variation, realistic depth\nConstraints: consistent 3000K warm color temperature, sharp canvas with intentionally defocused light circles, 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, candles, string lights, buildings, holiday symbols, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, hearts, excessive bloom, white clipping"
+    },
+    {
+      "id": "bokeh-gold-06",
+      "kind": "still",
+      "file": "pieces/bokeh-gold-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 bokeh background for video editing and thumbnails\nPrimary request: soft golden circular bokeh lights layered in depth with a dense left cluster fading to isolated points on the right\nScene/backdrop: seamless deep espresso-black field with no visible environment\nStyle/medium: premium defocused light photography, photorealistic lens bokeh\nComposition/framing: wide landscape, shallow focus, usable dark negative space on the right third, no horizon or recognizable scene\nLighting/mood: warm low-key glow, elegant and celebratory without being festive-specific\nColor palette: antique gold, warm amber, deep espresso black\nMaterials/textures: smooth optical bokeh discs with soft edges, subtle brightness variation, realistic depth\nConstraints: consistent 3000K warm color temperature, sharp canvas with intentionally defocused light circles, 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, candles, string lights, buildings, holiday symbols, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, hearts, excessive bloom, white clipping"
+    }
+  ]
+}
+

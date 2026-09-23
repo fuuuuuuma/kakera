@@ -1,0 +1,79 @@
+{
+  "slug": "night-desk",
+  "title": "夜の書斎",
+  "description": "解説動画のインサートに敷く、夜のデスクまわり。低い色温度の点光源で統一しています。",
+  "audience": [
+    "editor"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "デスクライト1灯の点光源。影は落とすが潰さない",
+    "colorTemp": "2700K 前後の電球色",
+    "framing": "斜め上からの寄りの俯瞰。水平は保つ",
+    "texture": "木の天板・紙・ガラス・金属の細い反射"
+  },
+  "generator": {
+    "service": "higgsfield",
+    "model": "soul_location",
+    "version": "2026-08"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "night-desk-01",
+      "kind": "still",
+      "file": "pieces/night-desk-01.png",
+      "useTags": [
+        "Bロール"
+      ],
+      "prompt": "a wooden writing desk at night lit by a single warm desk lamp, open notebook and pen, shallow depth of field, no people, cinematic, 2700K"
+    },
+    {
+      "id": "night-desk-02",
+      "kind": "still",
+      "file": "pieces/night-desk-02.png",
+      "useTags": [
+        "Bロール"
+      ],
+      "prompt": "close-up of a mechanical keyboard on a wooden writing desk at night, warm desk lamp light from the left, faint monitor glow, empty room, absolutely no people, no human, no silhouette, no shadow of a person, 2700K"
+    },
+    {
+      "id": "night-desk-03",
+      "kind": "still",
+      "file": "pieces/night-desk-03.png",
+      "useTags": [
+        "Bロール"
+      ],
+      "prompt": "a mug of coffee beside a stack of books on a wooden writing desk in a home study at night, single warm desk lamp, steam catching the light, bookshelf behind, no bed, not a bedroom, no people, 2700K"
+    },
+    {
+      "id": "night-desk-04",
+      "kind": "still",
+      "file": "pieces/night-desk-04.png",
+      "useTags": [
+        "Bロール"
+      ],
+      "prompt": "overhead view of scattered handwritten notes on a wooden desk at night, warm lamp, no people, 2700K"
+    },
+    {
+      "id": "night-desk-05",
+      "kind": "still",
+      "file": "pieces/night-desk-05.png",
+      "useTags": [
+        "Bロール"
+      ],
+      "prompt": "a desk lamp casting a warm pool of light on an empty wooden desk at night, dark room behind, no people, 2700K"
+    },
+    {
+      "id": "night-desk-06",
+      "kind": "still",
+      "file": "pieces/night-desk-06.png",
+      "useTags": [
+        "Bロール",
+        "場面転換"
+      ],
+      "prompt": "eyeglasses resting on an open book on a night desk, warm lamp light, soft bokeh, no people, 2700K"
+    }
+  ]
+}

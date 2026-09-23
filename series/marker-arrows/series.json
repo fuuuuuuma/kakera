@@ -1,0 +1,42 @@
+{
+  "slug": "marker-arrows",
+  "title": "矢印と囲み",
+  "description": "手描きマーカーの矢印と囲み。テロップの横に置く、サムネで指し示す、画面の一部を囲う — そのまま重ねられる透過PNGです。",
+  "audience": ["editor", "thumbnail"],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "均一。影を落とさない（重ねたときに浮かないため）",
+    "colorTemp": "彩度の高い1色。黄・赤・青・黒の4系統",
+    "framing": "正方形の中央に1つ。余白を均等に取る",
+    "texture": "太いマーカーのかすれ。線の端は荒く残す"
+  },
+  "generator": { "service": "higgsfield", "model": "nano_banana_pro", "version": "2026-08" },
+  "promptPublic": true,
+  "pieces": [
+    { "id": "marker-arrows-01", "kind": "still", "file": "pieces/marker-arrows-01.png", "alpha": true, "useTags": ["矢印", "透過"],
+      "prompt": "a single bold hand-drawn marker arrow pointing to the upper right, thick rough stroke, bright yellow, centered on a plain flat solid white background, no text, no other objects, high contrast between the arrow and the background" },
+    { "id": "marker-arrows-02", "kind": "still", "file": "pieces/marker-arrows-02.png", "alpha": true, "useTags": ["矢印", "透過"],
+      "prompt": "a single bold hand-drawn marker arrow pointing straight down, thick rough stroke, bright red, centered on a plain flat solid white background, no text, no other objects, high contrast between the arrow and the background" },
+    { "id": "marker-arrows-03", "kind": "still", "file": "pieces/marker-arrows-03.png", "alpha": true, "useTags": ["矢印", "透過"],
+      "prompt": "a single bold hand-drawn marker arrow pointing to the left, thick rough stroke, vivid blue, centered on a plain flat solid white background, no text, no other objects, high contrast between the arrow and the background" },
+    { "id": "marker-arrows-04", "kind": "still", "file": "pieces/marker-arrows-04.png", "alpha": true, "useTags": ["矢印", "透過"],
+      "prompt": "a single curved hand-drawn marker arrow sweeping from lower left to upper right, thick rough stroke, black ink, centered on a plain flat solid white background, no text, no other objects, high contrast between the arrow and the background" },
+    { "id": "marker-arrows-05", "kind": "still", "file": "pieces/marker-arrows-05.png", "alpha": true, "useTags": ["囲み", "透過"],
+      "prompt": "a rough hand-drawn marker circle used to circle something, thick uneven stroke, bright yellow, hollow center, centered on a plain flat solid white background, no text, no other objects, high contrast between the circle and the background" },
+    { "id": "marker-arrows-06", "kind": "still", "file": "pieces/marker-arrows-06.png", "alpha": true, "useTags": ["囲み", "透過"],
+      "prompt": "a rough hand-drawn marker rectangle frame used to highlight an area, thick uneven stroke, bright red, hollow center, centered on a plain flat solid white background, no text, no other objects, high contrast between the frame and the background" },
+    { "id": "marker-arrows-07", "kind": "still", "file": "pieces/marker-arrows-07.png", "alpha": true, "useTags": ["囲み", "透過"],
+      "prompt": "a rough hand-drawn marker underline with a slight upward flick at the end, thick stroke, vivid blue, centered on a plain flat solid white background, no text, no other objects, high contrast between the stroke and the background" },
+    { "id": "marker-arrows-08", "kind": "still", "file": "pieces/marker-arrows-08.png", "alpha": true, "useTags": ["囲み", "透過"],
+      "prompt": "two rough hand-drawn marker underlines stacked, thick strokes, black ink, centered on a plain flat solid white background, no text, no other objects, high contrast between the strokes and the background" },
+    { "id": "marker-arrows-09", "kind": "still", "file": "pieces/marker-arrows-09.png", "alpha": true, "useTags": ["矢印", "透過"],
+      "prompt": "three short bold hand-drawn marker chevrons pointing right in a row, thick rough strokes, bright yellow, centered on a plain flat solid white background, no text, no other objects, high contrast between the chevrons and the background" },
+    { "id": "marker-arrows-10", "kind": "still", "file": "pieces/marker-arrows-10.png", "alpha": true, "useTags": ["囲み", "透過"],
+      "prompt": "a rough hand-drawn marker speech-bubble outline with a pointed tail at the lower left, thick uneven stroke, black ink, hollow center, centered on a plain flat solid white background, no text, no other objects, high contrast between the outline and the background" },
+    { "id": "marker-arrows-11", "kind": "still", "file": "pieces/marker-arrows-11.png", "alpha": true, "useTags": ["矢印", "透過"],
+      "prompt": "a long straight hand-drawn marker arrow pointing to the right with a large arrowhead, thick rough stroke, bright red, centered on a plain flat solid white background, no text, no other objects, high contrast between the arrow and the background" },
+    { "id": "marker-arrows-12", "kind": "still", "file": "pieces/marker-arrows-12.png", "alpha": true, "useTags": ["囲み", "透過"],
+      "prompt": "a rough hand-drawn marker bracket pair facing each other like quotation marks, thick strokes, vivid blue, centered on a plain flat solid white background, no text, no other objects, high contrast between the brackets and the background" }
+  ]
+}

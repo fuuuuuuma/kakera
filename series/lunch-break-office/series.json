@@ -1,0 +1,115 @@
+{
+  "slug": "lunch-break-office",
+  "title": "職場の昼休み",
+  "description": "職場の昼休みについて、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "食材と人物を自然に見せる柔らかな光",
+    "colorTemp": "4000〜4800Kの自然な暖色",
+    "framing": "16:9。店舗背景、客、スタッフ、グループ、料理の寄りを網羅",
+    "texture": "食材、陶器、木、金属、布、肌の触感が伝わる実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "lunch-break-office-01",
+      "kind": "still",
+      "file": "pieces/lunch-break-office-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "食・店舗・接客",
+        "昼食",
+        "休憩",
+        "仕事",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 食・店舗・接客 stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a generic office break area and outdoor seating. Exactly zero people. Generic props clearly suggest taking a balanced lunch break, with generous clean negative space.\nStyle: photorealistic appetizing food and service editorial photography, natural colors and believable actions.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft directional daylight or warm restaurant practical light.\nPalette: fresh green, terracotta, cream, natural wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "lunch-break-office-02",
+      "kind": "still",
+      "file": "pieces/lunch-break-office-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "食・店舗・接客",
+        "昼食",
+        "休憩",
+        "仕事",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 食・店舗・接客 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional diverse adult office workers. Show that single person preparing for, pausing during, or reflecting after taking a balanced lunch break, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a generic office break area and outdoor seating. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic appetizing food and service editorial photography, natural colors and believable actions.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft directional daylight or warm restaurant practical light.\nPalette: fresh green, terracotta, cream, natural wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "lunch-break-office-03",
+      "kind": "still",
+      "file": "pieces/lunch-break-office-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "食・店舗・接客",
+        "昼食",
+        "休憩",
+        "仕事",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 食・店舗・接客 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional diverse adult office workers. Show that single person preparing for, pausing during, or reflecting after taking a balanced lunch break, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a generic office break area and outdoor seating. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic appetizing food and service editorial photography, natural colors and believable actions.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft directional daylight or warm restaurant practical light.\nPalette: fresh green, terracotta, cream, natural wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "lunch-break-office-04",
+      "kind": "still",
+      "file": "pieces/lunch-break-office-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "食・店舗・接客",
+        "昼食",
+        "休憩",
+        "仕事",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 食・店舗・接客 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional diverse adult office workers. Show a credible interaction while taking a balanced lunch break, with separated bodies and natural eye lines in a generic office break area and outdoor seating.\nStyle: photorealistic appetizing food and service editorial photography, natural colors and believable actions.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft directional daylight or warm restaurant practical light.\nPalette: fresh green, terracotta, cream, natural wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "lunch-break-office-05",
+      "kind": "still",
+      "file": "pieces/lunch-break-office-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "食・店舗・接客",
+        "昼食",
+        "休憩",
+        "仕事",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 食・店舗・接客 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional diverse adult office workers. Each person does a believable part of taking a balanced lunch break, in a wide environmental view of a generic office break area and outdoor seating.\nStyle: photorealistic appetizing food and service editorial photography, natural colors and believable actions.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft directional daylight or warm restaurant practical light.\nPalette: fresh green, terracotta, cream, natural wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "lunch-break-office-06",
+      "kind": "still",
+      "file": "pieces/lunch-break-office-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "食・店舗・接客",
+        "昼食",
+        "休憩",
+        "仕事",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 食・店舗・接客 stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in taking a balanced lunch break, with physically plausible contact in a generic office break area and outdoor seating. Avoid a full face.\nStyle: photorealistic appetizing food and service editorial photography, natural colors and believable actions.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft directional daylight or warm restaurant practical light.\nPalette: fresh green, terracotta, cream, natural wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kakera",
+  "main": "src/worker/index.ts",
+  "compatibility_date": "2026-08-21",
+  "assets": {
+    // 静的アセットへのリクエストは無料・無制限。ここに来たものは Worker を起動させない。
+    "directory": "./dist/site",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page"
+  },
+  "observability": { "enabled": true },
+  // 独自ドメイン。fuuuuuuma.dev は既に Cloudflare のゾーンにあるのでサブドメインを足すだけ。
+  "routes": [{ "pattern": "kakera.fuuuuuuma.dev", "custom_domain": true }],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "kakera",
+      "database_id": "00000000-0000-0000-0000-000000000000"  // フォークしたら `npx wrangler d1 create` で作った自分のIDに差し替える
+    }
+  ],
+  // Phase 2 (投稿の全員開放) 用。docs/design-2026-09-23-phase2-open-submissions.md 参照。
+  // R2 バケット名は 運営の既存決定 (kakera-assets・assets.fuuuuuuma.dev) に合わせた。
+  // これまでの素材アップロードは wrangler CLI の直接操作で行われており (Worker からの書き込みは
+  // 今回が初めて)、bindingはこのタスクで新規に追加した。
+  "r2_buckets": [
+    {
+      "binding": "ASSETS_BUCKET",
+      "bucket_name": "kakera-assets"
+    }
+  ],
+  // AIによる不適切画像の一次チェック (§1.1-6)。モデル選定・精度は実機未検証。
+  "ai": { "binding": "AI" },
+  // 「誰でも投稿できる」方針決定 (ラウンド4)。Turnstileサイトキーを取得していないため
+  // (docs/design-...-phase2 §2)、当面は投稿フォームにCAPTCHAを要求しない。
+  // 代わりのいたずら対策は IP 単位の1日5シリーズ上限 (checkSubmissionRateLimit)。
+  // Turnstileを導入する際はここを削除するか "true" にし、TURNSTILE_SECRET を
+  // Workers Secret として設定する。
+  "vars": { "REQUIRE_TURNSTILE": "false" }
+  // Workers Cache は有効にしない。
+  // 有効にすると、通常は無料の静的アセットのリクエストまで課金対象に変わる。
+}

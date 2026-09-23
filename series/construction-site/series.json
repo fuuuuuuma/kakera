@@ -1,0 +1,91 @@
+{
+  "slug": "construction-site",
+  "title": "建設現場",
+  "description": "ヘルメット、図面、足場、コンクリートを、乾いた昼光で統一した現場Bロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "乾いた昼の直射光と明確な影",
+    "colorTemp": "4800K前後の中立光",
+    "framing": "28mmの広角で構造線を強調",
+    "texture": "コンクリート、鋼材、合板、マットな樹脂"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "construction-site-01",
+      "kind": "still",
+      "file": "pieces/construction-site-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "建設"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a plain yellow hard hat resting on blank rolled plans over plywood\nScene/backdrop: a clean active-looking construction environment with no workers or people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, 28mm documentary framing, strong structural lines\nLighting/mood: hard but controlled midday light with defined shadows\nColor palette: concrete grey, safety yellow, steel blue, dusty beige\nMaterials/textures: raw concrete, galvanized steel, plywood, matte plastic\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "construction-site-02",
+      "kind": "still",
+      "file": "pieces/construction-site-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "建設"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: repeating steel scaffolding against an unfinished concrete wall\nScene/backdrop: a clean active-looking construction environment with no workers or people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, 28mm documentary framing, strong structural lines\nLighting/mood: hard but controlled midday light with defined shadows\nColor palette: concrete grey, safety yellow, steel blue, dusty beige\nMaterials/textures: raw concrete, galvanized steel, plywood, matte plastic\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "construction-site-03",
+      "kind": "still",
+      "file": "pieces/construction-site-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "建設"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: stacks of clean lumber and metal pipes arranged by size\nScene/backdrop: a clean active-looking construction environment with no workers or people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, 28mm documentary framing, strong structural lines\nLighting/mood: hard but controlled midday light with defined shadows\nColor palette: concrete grey, safety yellow, steel blue, dusty beige\nMaterials/textures: raw concrete, galvanized steel, plywood, matte plastic\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "construction-site-04",
+      "kind": "still",
+      "file": "pieces/construction-site-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "建設"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a close view of concrete texture with formwork lines and anchor holes\nScene/backdrop: a clean active-looking construction environment with no workers or people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, 28mm documentary framing, strong structural lines\nLighting/mood: hard but controlled midday light with defined shadows\nColor palette: concrete grey, safety yellow, steel blue, dusty beige\nMaterials/textures: raw concrete, galvanized steel, plywood, matte plastic\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "construction-site-05",
+      "kind": "still",
+      "file": "pieces/construction-site-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "建設"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an empty corridor inside an unfinished building with light at the far end\nScene/backdrop: a clean active-looking construction environment with no workers or people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, 28mm documentary framing, strong structural lines\nLighting/mood: hard but controlled midday light with defined shadows\nColor palette: concrete grey, safety yellow, steel blue, dusty beige\nMaterials/textures: raw concrete, galvanized steel, plywood, matte plastic\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "construction-site-06",
+      "kind": "still",
+      "file": "pieces/construction-site-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "建設"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: generic safety cones and temporary barriers casting long geometric shadows\nScene/backdrop: a clean active-looking construction environment with no workers or people\nStyle/medium: realistic industrial editorial photography\nComposition/framing: wide 16:9 landscape, 28mm documentary framing, strong structural lines\nLighting/mood: hard but controlled midday light with defined shadows\nColor palette: concrete grey, safety yellow, steel blue, dusty beige\nMaterials/textures: raw concrete, galvanized steel, plywood, matte plastic\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

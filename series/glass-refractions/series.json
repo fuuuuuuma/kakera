@@ -1,0 +1,92 @@
+{
+  "slug": "glass-refractions",
+  "title": "ガラスの屈折",
+  "description": "透明ガラスを通る光とコースティクスを主役にした、静かで現代的な抽象背景。明るいパールグレーと昼光で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "左上の大きな昼光源。屈折線は明瞭だが過度に眩しくしない",
+    "colorTemp": "5600Kの昼光色",
+    "framing": "地平線のないワイドなマクロ構図",
+    "texture": "透明ガラスの滑らかな面・ベベル・内部反射"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "glass-refractions-01",
+      "kind": "still",
+      "file": "pieces/glass-refractions-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: clear sculptural glass planes producing one broad diagonal refraction band and delicate caustic arcs\nScene/backdrop: smooth pearl-gray seamless studio field\nStyle/medium: premium macro glass photography, physically plausible optics and refraction\nComposition/framing: wide macro composition, dominant diagonal from lower left to upper right, clean negative space at upper left, no horizon\nLighting/mood: one large soft daylight source from upper left, crisp but restrained caustics, serene and modern\nColor palette: clear glass, pearl gray, pale ice blue, extremely subtle spectral highlights\nMaterials/textures: pristine transparent glass, smooth bevels, realistic internal reflection\nConstraints: consistent 5600K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, recognizable products, bottles, cups, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, sharp dangerous shards, excessive rainbow saturation"
+    },
+    {
+      "id": "glass-refractions-02",
+      "kind": "still",
+      "file": "pieces/glass-refractions-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: clear sculptural glass planes producing overlapping circular refraction halos and narrow caustic lines\nScene/backdrop: smooth pearl-gray seamless studio field\nStyle/medium: premium macro glass photography, physically plausible optics and refraction\nComposition/framing: wide macro composition, halos clustered on the right third, clean negative space on the left, no horizon\nLighting/mood: one large soft daylight source from upper left, crisp but restrained caustics, serene and modern\nColor palette: clear glass, pearl gray, pale ice blue, extremely subtle spectral highlights\nMaterials/textures: pristine transparent glass, smooth bevels, realistic internal reflection\nConstraints: consistent 5600K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, recognizable products, bottles, cups, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, sharp dangerous shards, excessive rainbow saturation"
+    },
+    {
+      "id": "glass-refractions-03",
+      "kind": "still",
+      "file": "pieces/glass-refractions-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: clear sculptural glass planes producing a vertical prism fold with subtle spectral separation\nScene/backdrop: smooth pearl-gray seamless studio field\nStyle/medium: premium macro glass photography, physically plausible optics and refraction\nComposition/framing: wide macro composition, prism fold on the left third, clean negative space on the right, no horizon\nLighting/mood: one large soft daylight source from upper left, crisp but restrained caustics, serene and modern\nColor palette: clear glass, pearl gray, pale ice blue, extremely subtle spectral highlights\nMaterials/textures: pristine transparent glass, smooth bevels, realistic internal reflection\nConstraints: consistent 5600K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, recognizable products, bottles, cups, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, sharp dangerous shards, excessive rainbow saturation"
+    },
+    {
+      "id": "glass-refractions-04",
+      "kind": "still",
+      "file": "pieces/glass-refractions-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: clear sculptural glass planes producing a low horizontal wave of refracted light\nScene/backdrop: smooth pearl-gray seamless studio field\nStyle/medium: premium macro glass photography, physically plausible optics and refraction\nComposition/framing: wide macro composition, refraction wave across the bottom third, open upper half, no horizon\nLighting/mood: one large soft daylight source from upper left, crisp but restrained caustics, serene and modern\nColor palette: clear glass, pearl gray, pale ice blue, extremely subtle spectral highlights\nMaterials/textures: pristine transparent glass, smooth bevels, realistic internal reflection\nConstraints: consistent 5600K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, recognizable products, bottles, cups, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, sharp dangerous shards, excessive rainbow saturation"
+    },
+    {
+      "id": "glass-refractions-05",
+      "kind": "still",
+      "file": "pieces/glass-refractions-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: clear sculptural glass planes producing intersecting diamond-shaped caustics without forming symbols\nScene/backdrop: smooth pearl-gray seamless studio field\nStyle/medium: premium macro glass photography, physically plausible optics and refraction\nComposition/framing: wide macro composition, intersection near the center, quiet corners, no horizon\nLighting/mood: one large soft daylight source from upper left, crisp but restrained caustics, serene and modern\nColor palette: clear glass, pearl gray, pale ice blue, extremely subtle spectral highlights\nMaterials/textures: pristine transparent glass, smooth bevels, realistic internal reflection\nConstraints: consistent 5600K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, recognizable products, bottles, cups, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, sharp dangerous shards, excessive rainbow saturation"
+    },
+    {
+      "id": "glass-refractions-06",
+      "kind": "still",
+      "file": "pieces/glass-refractions-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: clear sculptural glass planes producing layered crescent refractions and soft internal reflections\nScene/backdrop: smooth pearl-gray seamless studio field\nStyle/medium: premium macro glass photography, physically plausible optics and refraction\nComposition/framing: wide macro composition, crescents sweeping from upper right to lower center, negative space at lower left, no horizon\nLighting/mood: one large soft daylight source from upper left, crisp but restrained caustics, serene and modern\nColor palette: clear glass, pearl gray, pale ice blue, extremely subtle spectral highlights\nMaterials/textures: pristine transparent glass, smooth bevels, realistic internal reflection\nConstraints: consistent 5600K daylight color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, recognizable products, bottles, cups, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, sharp dangerous shards, excessive rainbow saturation"
+    }
+  ]
+}
+

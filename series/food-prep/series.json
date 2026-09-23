@@ -1,0 +1,91 @@
+{
+  "slug": "food-prep",
+  "title": "料理の下ごしらえ",
+  "description": "野菜、包丁、ボウル、まな板を、自然光の俯瞰でそろえた料理Bロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "自然な窓光の拡散光",
+    "colorTemp": "4300K前後の自然光",
+    "framing": "真上〜斜め上60度の俯瞰",
+    "texture": "野菜、木のまな板、金属、陶器"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "food-prep-01",
+      "kind": "still",
+      "file": "pieces/food-prep-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "料理"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: colorful whole vegetables arranged around an empty wooden cutting board\nScene/backdrop: a clean home kitchen prep surface with fresh generic ingredients and no people\nStyle/medium: natural realistic food editorial photography\nComposition/framing: wide 16:9 landscape, overhead or high 60-degree view, orderly negative space\nLighting/mood: soft neutral daylight with crisp but gentle food texture\nColor palette: natural wood, leafy green, tomato red, ceramic white\nMaterials/textures: fresh vegetables, wood cutting board, brushed steel, ceramic bowls\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "food-prep-02",
+      "kind": "still",
+      "file": "pieces/food-prep-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "料理"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: sliced tomatoes and herbs beside a clean unbranded kitchen knife\nScene/backdrop: a clean home kitchen prep surface with fresh generic ingredients and no people\nStyle/medium: natural realistic food editorial photography\nComposition/framing: wide 16:9 landscape, overhead or high 60-degree view, orderly negative space\nLighting/mood: soft neutral daylight with crisp but gentle food texture\nColor palette: natural wood, leafy green, tomato red, ceramic white\nMaterials/textures: fresh vegetables, wood cutting board, brushed steel, ceramic bowls\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "food-prep-03",
+      "kind": "still",
+      "file": "pieces/food-prep-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "料理"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: small ceramic bowls holding measured spices with no labels\nScene/backdrop: a clean home kitchen prep surface with fresh generic ingredients and no people\nStyle/medium: natural realistic food editorial photography\nComposition/framing: wide 16:9 landscape, overhead or high 60-degree view, orderly negative space\nLighting/mood: soft neutral daylight with crisp but gentle food texture\nColor palette: natural wood, leafy green, tomato red, ceramic white\nMaterials/textures: fresh vegetables, wood cutting board, brushed steel, ceramic bowls\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "food-prep-04",
+      "kind": "still",
+      "file": "pieces/food-prep-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "料理"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: leafy greens being prepared beside a glass bowl and folded towel\nScene/backdrop: a clean home kitchen prep surface with fresh generic ingredients and no people\nStyle/medium: natural realistic food editorial photography\nComposition/framing: wide 16:9 landscape, overhead or high 60-degree view, orderly negative space\nLighting/mood: soft neutral daylight with crisp but gentle food texture\nColor palette: natural wood, leafy green, tomato red, ceramic white\nMaterials/textures: fresh vegetables, wood cutting board, brushed steel, ceramic bowls\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "food-prep-05",
+      "kind": "still",
+      "file": "pieces/food-prep-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "料理"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a simple row of chopped vegetables organized by color\nScene/backdrop: a clean home kitchen prep surface with fresh generic ingredients and no people\nStyle/medium: natural realistic food editorial photography\nComposition/framing: wide 16:9 landscape, overhead or high 60-degree view, orderly negative space\nLighting/mood: soft neutral daylight with crisp but gentle food texture\nColor palette: natural wood, leafy green, tomato red, ceramic white\nMaterials/textures: fresh vegetables, wood cutting board, brushed steel, ceramic bowls\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "food-prep-06",
+      "kind": "still",
+      "file": "pieces/food-prep-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "料理"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a wooden spoon, whisk, and empty mixing bowl ready for cooking\nScene/backdrop: a clean home kitchen prep surface with fresh generic ingredients and no people\nStyle/medium: natural realistic food editorial photography\nComposition/framing: wide 16:9 landscape, overhead or high 60-degree view, orderly negative space\nLighting/mood: soft neutral daylight with crisp but gentle food texture\nColor palette: natural wood, leafy green, tomato red, ceramic white\nMaterials/textures: fresh vegetables, wood cutting board, brushed steel, ceramic bowls\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

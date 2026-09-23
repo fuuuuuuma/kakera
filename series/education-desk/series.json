@@ -1,0 +1,91 @@
+{
+  "slug": "education-desk",
+  "title": "学習机",
+  "description": "ノート、鉛筆、本、定規を、柔らかな朝の光でそろえた学習・教育向けBロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "朝の柔らかな窓光",
+    "colorTemp": "4000K前後の自然な暖色",
+    "framing": "斜め上35度。手前に余白を確保",
+    "texture": "紙、木、鉛筆のマットな質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "education-desk-01",
+      "kind": "still",
+      "file": "pieces/education-desk-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "教育"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an open blank notebook with two pencils and a wooden ruler\nScene/backdrop: a quiet study desk with generic blank learning materials and no people\nStyle/medium: warm realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, elevated 35-degree angle, clean negative space\nLighting/mood: soft morning window light with delicate shadows\nColor palette: light wood, cream paper, muted blue, soft yellow\nMaterials/textures: paper fibers, wood grain, painted pencils, matte book covers\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "education-desk-02",
+      "kind": "still",
+      "file": "pieces/education-desk-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "教育"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a small stack of plain books beside an eraser and pencil sharpener\nScene/backdrop: a quiet study desk with generic blank learning materials and no people\nStyle/medium: warm realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, elevated 35-degree angle, clean negative space\nLighting/mood: soft morning window light with delicate shadows\nColor palette: light wood, cream paper, muted blue, soft yellow\nMaterials/textures: paper fibers, wood grain, painted pencils, matte book covers\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "education-desk-03",
+      "kind": "still",
+      "file": "pieces/education-desk-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "教育"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: colored pencils arranged in a gentle fan on blank drawing paper\nScene/backdrop: a quiet study desk with generic blank learning materials and no people\nStyle/medium: warm realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, elevated 35-degree angle, clean negative space\nLighting/mood: soft morning window light with delicate shadows\nColor palette: light wood, cream paper, muted blue, soft yellow\nMaterials/textures: paper fibers, wood grain, painted pencils, matte book covers\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "education-desk-04",
+      "kind": "still",
+      "file": "pieces/education-desk-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "教育"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a simple desk globe without readable labels beside a closed notebook\nScene/backdrop: a quiet study desk with generic blank learning materials and no people\nStyle/medium: warm realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, elevated 35-degree angle, clean negative space\nLighting/mood: soft morning window light with delicate shadows\nColor palette: light wood, cream paper, muted blue, soft yellow\nMaterials/textures: paper fibers, wood grain, painted pencils, matte book covers\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "education-desk-05",
+      "kind": "still",
+      "file": "pieces/education-desk-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "教育"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: blank index cards organized with binder clips and a pen\nScene/backdrop: a quiet study desk with generic blank learning materials and no people\nStyle/medium: warm realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, elevated 35-degree angle, clean negative space\nLighting/mood: soft morning window light with delicate shadows\nColor palette: light wood, cream paper, muted blue, soft yellow\nMaterials/textures: paper fibers, wood grain, painted pencils, matte book covers\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "education-desk-06",
+      "kind": "still",
+      "file": "pieces/education-desk-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "教育"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: an empty classroom-style desk with a notebook centered in warm light\nScene/backdrop: a quiet study desk with generic blank learning materials and no people\nStyle/medium: warm realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, elevated 35-degree angle, clean negative space\nLighting/mood: soft morning window light with delicate shadows\nColor palette: light wood, cream paper, muted blue, soft yellow\nMaterials/textures: paper fibers, wood grain, painted pencils, matte book covers\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

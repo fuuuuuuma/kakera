@@ -1,0 +1,115 @@
+{
+  "slug": "greenhouse-work",
+  "title": "温室の仕事",
+  "description": "温室の仕事について、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "現場に即した昼光または実用照明",
+    "colorTemp": "4400〜5200Kの中立光",
+    "framing": "16:9。現場、担当者、共同作業、チーム、道具を網羅",
+    "texture": "金属、コンクリート、木、段ボール、土、作業着の実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "greenhouse-work-01",
+      "kind": "still",
+      "file": "pieces/greenhouse-work-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "産業・物流・環境",
+        "温室",
+        "農業",
+        "植物",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 産業・物流・環境 stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a bright generic greenhouse. Exactly zero people. Generic props clearly suggest planting and checking crops, with generous clean negative space.\nStyle: photorealistic industrial documentary editorial photography, safe, credible and visually organized.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: realistic daylight or industrial practical light with clear structural depth.\nPalette: steel grey, safety yellow, kraft brown, muted blue, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "greenhouse-work-02",
+      "kind": "still",
+      "file": "pieces/greenhouse-work-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "産業・物流・環境",
+        "温室",
+        "農業",
+        "植物",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 産業・物流・環境 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional adult growers and technicians. Show that single person preparing for, pausing during, or reflecting after planting and checking crops, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a bright generic greenhouse. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic industrial documentary editorial photography, safe, credible and visually organized.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: realistic daylight or industrial practical light with clear structural depth.\nPalette: steel grey, safety yellow, kraft brown, muted blue, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "greenhouse-work-03",
+      "kind": "still",
+      "file": "pieces/greenhouse-work-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "産業・物流・環境",
+        "温室",
+        "農業",
+        "植物",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 産業・物流・環境 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional adult growers and technicians. Show that single person preparing for, pausing during, or reflecting after planting and checking crops, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a bright generic greenhouse. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic industrial documentary editorial photography, safe, credible and visually organized.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: realistic daylight or industrial practical light with clear structural depth.\nPalette: steel grey, safety yellow, kraft brown, muted blue, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "greenhouse-work-04",
+      "kind": "still",
+      "file": "pieces/greenhouse-work-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "産業・物流・環境",
+        "温室",
+        "農業",
+        "植物",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 産業・物流・環境 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional adult growers and technicians. Show a credible interaction while planting and checking crops, with separated bodies and natural eye lines in a bright generic greenhouse.\nStyle: photorealistic industrial documentary editorial photography, safe, credible and visually organized.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: realistic daylight or industrial practical light with clear structural depth.\nPalette: steel grey, safety yellow, kraft brown, muted blue, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "greenhouse-work-05",
+      "kind": "still",
+      "file": "pieces/greenhouse-work-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "産業・物流・環境",
+        "温室",
+        "農業",
+        "植物",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 産業・物流・環境 stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional adult growers and technicians. Each person does a believable part of planting and checking crops, in a wide environmental view of a bright generic greenhouse.\nStyle: photorealistic industrial documentary editorial photography, safe, credible and visually organized.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: realistic daylight or industrial practical light with clear structural depth.\nPalette: steel grey, safety yellow, kraft brown, muted blue, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "greenhouse-work-06",
+      "kind": "still",
+      "file": "pieces/greenhouse-work-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "産業・物流・環境",
+        "温室",
+        "農業",
+        "植物",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 産業・物流・環境 stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in planting and checking crops, with physically plausible contact in a bright generic greenhouse. Avoid a full face.\nStyle: photorealistic industrial documentary editorial photography, safe, credible and visually organized.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: realistic daylight or industrial practical light with clear structural depth.\nPalette: steel grey, safety yellow, kraft brown, muted blue, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

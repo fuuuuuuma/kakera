@@ -1,0 +1,92 @@
+{
+  "slug": "colored-smoke",
+  "title": "色煙",
+  "description": "深い黒の上で青緑とマゼンタの煙が重なる、幻想的な抽象背景。細い煙のディテールと背面光で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "背面やや上からの柔らかなリムライト",
+    "colorTemp": "5200Kのニュートラル寄り寒色",
+    "framing": "黒い余白を生かした地平線のないワイド構図",
+    "texture": "半透明の細い煙、繊細なフィラメントと拡散"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "colored-smoke-01",
+      "kind": "still",
+      "file": "pieces/colored-smoke-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: fine teal and magenta smoke plumes rising in two graceful columns and softly crossing near the center\nScene/backdrop: seamless near-black charcoal studio field\nStyle/medium: high-speed studio smoke photography, photorealistic, ethereal\nComposition/framing: wide landscape, smoke concentrated in the middle third, open dark space on both sides, no horizon\nLighting/mood: soft cool rim light from behind and slightly above, gentle volumetric depth, mysterious but elegant\nColor palette: deep teal, restrained magenta, muted violet transitions, charcoal black\nMaterials/textures: translucent fine smoke with detailed filaments and soft diffusion\nConstraints: consistent 5200K neutral-cool lighting, sharp enough for 2048x1152 delivery, opaque image, preserve rich blacks\nAvoid: people, faces, human figures, hands, fire, flames, cigarettes, vaping devices, recognizable objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, skull shapes, creature shapes, excessive neon saturation"
+    },
+    {
+      "id": "colored-smoke-02",
+      "kind": "still",
+      "file": "pieces/colored-smoke-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: fine teal and magenta smoke drifting horizontally in layered ribbons from left to right\nScene/backdrop: seamless near-black charcoal studio field\nStyle/medium: high-speed studio smoke photography, photorealistic, ethereal\nComposition/framing: wide landscape, layered flow across the lower half, open dark space above, no horizon\nLighting/mood: soft cool rim light from behind and slightly above, gentle volumetric depth, mysterious but elegant\nColor palette: deep teal, restrained magenta, muted violet transitions, charcoal black\nMaterials/textures: translucent fine smoke with detailed filaments and soft diffusion\nConstraints: consistent 5200K neutral-cool lighting, sharp enough for 2048x1152 delivery, opaque image, preserve rich blacks\nAvoid: people, faces, human figures, hands, fire, flames, cigarettes, vaping devices, recognizable objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, skull shapes, creature shapes, excessive neon saturation"
+    },
+    {
+      "id": "colored-smoke-03",
+      "kind": "still",
+      "file": "pieces/colored-smoke-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: fine teal and magenta smoke curling into a loose spiral with a dark open center\nScene/backdrop: seamless near-black charcoal studio field\nStyle/medium: high-speed studio smoke photography, photorealistic, ethereal\nComposition/framing: wide landscape, spiral weighted to the right third, open dark space on the left, no horizon\nLighting/mood: soft cool rim light from behind and slightly above, gentle volumetric depth, mysterious but elegant\nColor palette: deep teal, restrained magenta, muted violet transitions, charcoal black\nMaterials/textures: translucent fine smoke with detailed filaments and soft diffusion\nConstraints: consistent 5200K neutral-cool lighting, sharp enough for 2048x1152 delivery, opaque image, preserve rich blacks\nAvoid: people, faces, human figures, hands, fire, flames, cigarettes, vaping devices, recognizable objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, skull shapes, creature shapes, excessive neon saturation"
+    },
+    {
+      "id": "colored-smoke-04",
+      "kind": "still",
+      "file": "pieces/colored-smoke-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: fine teal and magenta smoke blooming upward like an abstract cloud with delicate tendrils\nScene/backdrop: seamless near-black charcoal studio field\nStyle/medium: high-speed studio smoke photography, photorealistic, ethereal\nComposition/framing: wide landscape, bloom anchored at bottom center, open dark space across the upper corners, no horizon\nLighting/mood: soft cool rim light from behind and slightly above, gentle volumetric depth, mysterious but elegant\nColor palette: deep teal, restrained magenta, muted violet transitions, charcoal black\nMaterials/textures: translucent fine smoke with detailed filaments and soft diffusion\nConstraints: consistent 5200K neutral-cool lighting, sharp enough for 2048x1152 delivery, opaque image, preserve rich blacks\nAvoid: people, faces, human figures, hands, fire, flames, cigarettes, vaping devices, recognizable objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, skull shapes, creature shapes, excessive neon saturation"
+    },
+    {
+      "id": "colored-smoke-05",
+      "kind": "still",
+      "file": "pieces/colored-smoke-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: fine teal and magenta smoke forming a sweeping diagonal veil from upper left to lower right\nScene/backdrop: seamless near-black charcoal studio field\nStyle/medium: high-speed studio smoke photography, photorealistic, ethereal\nComposition/framing: wide landscape, diagonal veil with an open dark triangle at upper right, no horizon\nLighting/mood: soft cool rim light from behind and slightly above, gentle volumetric depth, mysterious but elegant\nColor palette: deep teal, restrained magenta, muted violet transitions, charcoal black\nMaterials/textures: translucent fine smoke with detailed filaments and soft diffusion\nConstraints: consistent 5200K neutral-cool lighting, sharp enough for 2048x1152 delivery, opaque image, preserve rich blacks\nAvoid: people, faces, human figures, hands, fire, flames, cigarettes, vaping devices, recognizable objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, skull shapes, creature shapes, excessive neon saturation"
+    },
+    {
+      "id": "colored-smoke-06",
+      "kind": "still",
+      "file": "pieces/colored-smoke-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: fine teal and magenta smoke separating into three soft wisps with layered depth\nScene/backdrop: seamless near-black charcoal studio field\nStyle/medium: high-speed studio smoke photography, photorealistic, ethereal\nComposition/framing: wide landscape, three wisps distributed across the lower two thirds, quiet top edge, no horizon\nLighting/mood: soft cool rim light from behind and slightly above, gentle volumetric depth, mysterious but elegant\nColor palette: deep teal, restrained magenta, muted violet transitions, charcoal black\nMaterials/textures: translucent fine smoke with detailed filaments and soft diffusion\nConstraints: consistent 5200K neutral-cool lighting, sharp enough for 2048x1152 delivery, opaque image, preserve rich blacks\nAvoid: people, faces, human figures, hands, fire, flames, cigarettes, vaping devices, recognizable objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, skull shapes, creature shapes, excessive neon saturation"
+    }
+  ]
+}
+

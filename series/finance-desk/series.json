@@ -1,0 +1,91 @@
+{
+  "slug": "finance-desk",
+  "title": "数字を扱うデスク",
+  "description": "計算、集計、予算管理を連想させる机上の道具を、落ち着いた昼光で統一したビジネスBロールです。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "窓からの中立的な拡散光",
+    "colorTemp": "4300K前後のニュートラル",
+    "framing": "斜め上45度の整理された机上構図",
+    "texture": "木、紙、金属、ガラスの控えめな反射"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "finance-desk-01",
+      "kind": "still",
+      "file": "pieces/finance-desk-01.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a blank calculator beside neatly stacked blank paper and a pencil\nScene/backdrop: a tidy unbranded finance work desk with blank documents and no people\nStyle/medium: realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, slightly elevated 45-degree view, organized geometry\nLighting/mood: soft neutral daylight from one side with gentle shadows\nColor palette: warm wood, off-white paper, graphite grey, muted green\nMaterials/textures: paper, wood grain, brushed metal, glass\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "finance-desk-02",
+      "kind": "still",
+      "file": "pieces/finance-desk-02.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: small neutral coins arranged beside an empty notebook and ruler\nScene/backdrop: a tidy unbranded finance work desk with blank documents and no people\nStyle/medium: realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, slightly elevated 45-degree view, organized geometry\nLighting/mood: soft neutral daylight from one side with gentle shadows\nColor palette: warm wood, off-white paper, graphite grey, muted green\nMaterials/textures: paper, wood grain, brushed metal, glass\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "finance-desk-03",
+      "kind": "still",
+      "file": "pieces/finance-desk-03.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a blank chart sheet with simple unlabeled lines under a metal clip\nScene/backdrop: a tidy unbranded finance work desk with blank documents and no people\nStyle/medium: realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, slightly elevated 45-degree view, organized geometry\nLighting/mood: soft neutral daylight from one side with gentle shadows\nColor palette: warm wood, off-white paper, graphite grey, muted green\nMaterials/textures: paper, wood grain, brushed metal, glass\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "finance-desk-04",
+      "kind": "still",
+      "file": "pieces/finance-desk-04.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: organized receipt-like blank slips beside a ceramic cup\nScene/backdrop: a tidy unbranded finance work desk with blank documents and no people\nStyle/medium: realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, slightly elevated 45-degree view, organized geometry\nLighting/mood: soft neutral daylight from one side with gentle shadows\nColor palette: warm wood, off-white paper, graphite grey, muted green\nMaterials/textures: paper, wood grain, brushed metal, glass\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "finance-desk-05",
+      "kind": "still",
+      "file": "pieces/finance-desk-05.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a magnifying glass resting over abstract grid paper with no readable marks\nScene/backdrop: a tidy unbranded finance work desk with blank documents and no people\nStyle/medium: realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, slightly elevated 45-degree view, organized geometry\nLighting/mood: soft neutral daylight from one side with gentle shadows\nColor palette: warm wood, off-white paper, graphite grey, muted green\nMaterials/textures: paper, wood grain, brushed metal, glass\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    },
+    {
+      "id": "finance-desk-06",
+      "kind": "still",
+      "file": "pieces/finance-desk-06.png",
+      "alpha": false,
+      "useTags": [
+        "Bロール",
+        "ビジネス"
+      ],
+      "prompt": "Use case: photorealistic-natural\nAsset type: KAKERA stock B-roll for video editing and thumbnails\nPrimary request: a closed ledger-style notebook with a calculator and paper clips\nScene/backdrop: a tidy unbranded finance work desk with blank documents and no people\nStyle/medium: realistic editorial still-life photography\nComposition/framing: wide 16:9 landscape, slightly elevated 45-degree view, organized geometry\nLighting/mood: soft neutral daylight from one side with gentle shadows\nColor palette: warm wood, off-white paper, graphite grey, muted green\nMaterials/textures: paper, wood grain, brushed metal, glass\nConstraints: no people, no faces, no readable text, no logos, no brands, no watermark, no UI overlays, no recognizable trademarks"
+    }
+  ]
+}

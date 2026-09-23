@@ -1,0 +1,92 @@
+{
+  "slug": "abstract-fluid-warm",
+  "title": "暖色の流体",
+  "description": "映像の敷きや場面転換に使いやすい、琥珀色と朱色の流体表現。深いバーガンディ背景と暖かな照明で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "右上からの柔らかな暖色サイドライト。ハイライトは控えめ",
+    "colorTemp": "3200Kの暖色",
+    "framing": "16:9のマクロ構図。背景に使える余白を残す",
+    "texture": "滑らかで光沢のある粘性流体と繊細なコースティクス"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "abstract-fluid-warm-01",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-warm-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: amber and vermilion translucent fluid forms flowing diagonally from upper right to lower left, broad smooth ribbons with one elegant central fold\nScene/backdrop: deep burgundy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, usable negative space near the upper left\nLighting/mood: soft warm studio side light from the upper right, restrained luminous highlights, calm and luxurious\nColor palette: amber, vermilion, deep burgundy, subtle gold highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 3200K warm color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, blue, cyan"
+    },
+    {
+      "id": "abstract-fluid-warm-02",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-warm-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: amber and vermilion translucent fluid forms creating two parallel sweeping waves from right to left\nScene/backdrop: deep burgundy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, balanced negative space along the top center\nLighting/mood: soft warm studio side light from the upper right, restrained luminous highlights, calm and luxurious\nColor palette: amber, vermilion, deep burgundy, subtle gold highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 3200K warm color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, blue, cyan"
+    },
+    {
+      "id": "abstract-fluid-warm-03",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-warm-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: amber and vermilion translucent fluid forms curling into a broad spiral with an open calm center\nScene/backdrop: deep burgundy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, spiral weighted to the lower right with negative space at upper left\nLighting/mood: soft warm studio side light from the upper right, restrained luminous highlights, calm and luxurious\nColor palette: amber, vermilion, deep burgundy, subtle gold highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 3200K warm color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, blue, cyan"
+    },
+    {
+      "id": "abstract-fluid-warm-04",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-warm-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: amber and vermilion translucent fluid forms forming a low rolling crest across the bottom third\nScene/backdrop: deep burgundy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, generous clean negative space across the upper half\nLighting/mood: soft warm studio side light from the upper right, restrained luminous highlights, calm and luxurious\nColor palette: amber, vermilion, deep burgundy, subtle gold highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 3200K warm color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, blue, cyan"
+    },
+    {
+      "id": "abstract-fluid-warm-05",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-warm-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: amber and vermilion translucent fluid forms folding vertically like a soft liquid curtain\nScene/backdrop: deep burgundy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, main fold on the left third with negative space on the right\nLighting/mood: soft warm studio side light from the upper right, restrained luminous highlights, calm and luxurious\nColor palette: amber, vermilion, deep burgundy, subtle gold highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 3200K warm color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, blue, cyan"
+    },
+    {
+      "id": "abstract-fluid-warm-06",
+      "kind": "still",
+      "file": "pieces/abstract-fluid-warm-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 abstract background for video editing and thumbnails\nPrimary request: amber and vermilion translucent fluid forms intersecting in a gentle S-curve with layered depth\nScene/backdrop: deep burgundy seamless abstract field\nStyle/medium: premium macro fluid photography, physically plausible liquid, realistic refraction\nComposition/framing: wide landscape, close macro view, no horizon, centered S-curve with small quiet corners\nLighting/mood: soft warm studio side light from the upper right, restrained luminous highlights, calm and luxurious\nColor palette: amber, vermilion, deep burgundy, subtle gold highlights only\nMaterials/textures: glossy viscous liquid, pristine smooth surface, fine internal caustics\nConstraints: consistent 3200K warm color temperature, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, objects, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, excessive bloom, blue, cyan"
+    }
+  ]
+}
+

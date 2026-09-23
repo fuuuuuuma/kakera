@@ -1,0 +1,115 @@
+{
+  "slug": "moving-new-home",
+  "title": "新居への引っ越し",
+  "description": "新居への引っ越しについて、背景のみ、1人の左右配置、2人、3〜5人、手元・寄りをそろえた動画編集用素材です。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "柔らかな自然光または家庭の暖色光",
+    "colorTemp": "3800〜4600Kの自然な暖色",
+    "framing": "16:9。生活背景、左右配置、家族、手元を網羅",
+    "texture": "肌、布、木、生活用品、植物の自然な実写質感"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "moving-new-home-01",
+      "kind": "still",
+      "file": "pieces/moving-new-home-01.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "引っ越し",
+        "新生活",
+        "住宅",
+        "背景のみ"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: A wide establishing background of a bright empty apartment with plain cardboard boxes. Exactly zero people. Generic props clearly suggest moving into and organizing a new home safely, with generous clean negative space.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "moving-new-home-02",
+      "kind": "still",
+      "file": "pieces/moving-new-home-02.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "引っ越し",
+        "新生活",
+        "住宅",
+        "1人・左配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one newly invented fictional person alone from this cast: fictional adult couples, roommates and family members. Show that single person preparing for, pausing during, or reflecting after moving into and organizing a new home safely, positioned on the left third, with clean Japanese-caption space on the right, in a plausible variation of a bright empty apartment with plain cardboard boxes. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "moving-new-home-03",
+      "kind": "still",
+      "file": "pieces/moving-new-home-03.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "引っ越し",
+        "新生活",
+        "住宅",
+        "1人・右配置"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly one different newly invented fictional person alone from this cast: fictional adult couples, roommates and family members. Show that single person preparing for, pausing during, or reflecting after moving into and organizing a new home safely, positioned on the right third, with clean Japanese-caption space on the left, in another variation of a bright empty apartment with plain cardboard boxes. No other people, partial bodies, background figures, portraits or human images anywhere.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "moving-new-home-04",
+      "kind": "still",
+      "file": "pieces/moving-new-home-04.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "引っ越し",
+        "新生活",
+        "住宅",
+        "2人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly two newly invented fictional people from this cast: fictional adult couples, roommates and family members. Show a credible interaction while moving into and organizing a new home safely, with separated bodies and natural eye lines in a bright empty apartment with plain cardboard boxes.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "moving-new-home-05",
+      "kind": "still",
+      "file": "pieces/moving-new-home-05.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "引っ越し",
+        "新生活",
+        "住宅",
+        "3〜5人"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: Exactly three to five newly invented fictional people from this cast: fictional adult couples, roommates and family members. Each person does a believable part of moving into and organizing a new home safely, in a wide environmental view of a bright empty apartment with plain cardboard boxes.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    },
+    {
+      "id": "moving-new-home-06",
+      "kind": "still",
+      "file": "pieces/moving-new-home-06.png",
+      "alpha": false,
+      "forThumbnail": true,
+      "useTags": [
+        "家族・暮らし",
+        "引っ越し",
+        "新生活",
+        "住宅",
+        "手元・寄り"
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: original KAKERA 家族・暮らし stock image set for professional video editing and thumbnails.\nPrimary request: A close editorial detail of anatomically correct hands and a relevant unbranded tool, material or object involved in moving into and organizing a new home safely, with physically plausible contact in a bright empty apartment with plain cardboard boxes. Avoid a full face.\nStyle: photorealistic warm lifestyle editorial photography, candid, respectful and realistically lived-in.\nComposition: wide 16:9 landscape, 35mm or 50mm editorial framing, intentional Japanese-caption-safe negative space.\nLighting: soft natural daylight or believable warm household practical light.\nPalette: cream, sage, soft blue, warm wood, natural skin tones.\nOutput: opaque high-resolution PNG source, no transparent background and no cutout-on-empty-canvas look.\nOriginality and rights: Create a fully original composition from generic concepts only. Do not imitate, reproduce, trace, or closely reference any existing stock asset, photo, video frame, illustration, artist, illustrator, website, social-media post, thumbnail, brand campaign, mascot, copyrighted character, or named visual style.\nPeople safety: Every person must be newly invented and fictional, with no resemblance to any identifiable real individual. Use respectful, non-stereotyped representation. Faces, hands, fingers, limbs and joints must be anatomically natural; no duplicated limbs or merged bodies. Children must be fully clothed, age-appropriate and safe.\nRights constraints: No readable text, letters, numbers, signatures, labels, logos, brands, watermarks, flags, trademarks, characters, recognizable user interfaces, QR codes, license plates, addresses, patient information or personal data."
+    }
+  ]
+}

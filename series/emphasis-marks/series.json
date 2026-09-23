@@ -1,0 +1,42 @@
+{
+  "slug": "emphasis-marks",
+  "title": "強調の記号",
+  "description": "感嘆符・チェック・バツ・キラキラ・集中線。画面の一点を強めるための記号です。そのまま重ねられる透過PNGです。",
+  "audience": ["editor", "thumbnail"],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "均一。影を落とさない（重ねたときに浮かないため）",
+    "colorTemp": "彩度の高い1色。黄・赤・白・黒の4系統",
+    "framing": "正方形の中央に1つ。余白を均等に取る",
+    "texture": "太い輪郭のフラットな塗り。手描きのゆがみを少し残す"
+  },
+  "generator": { "service": "higgsfield", "model": "nano_banana_pro", "version": "2026-08" },
+  "promptPublic": true,
+  "pieces": [
+    { "id": "emphasis-marks-01", "kind": "still", "file": "pieces/emphasis-marks-01.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a single bold exclamation mark, thick flat bright yellow fill with a thick black outline, slightly tilted, centered on a plain flat solid magenta background, no other objects, high contrast between the mark and the background" },
+    { "id": "emphasis-marks-02", "kind": "still", "file": "pieces/emphasis-marks-02.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a single bold question mark, thick flat white fill with a thick black outline, slightly tilted, centered on a plain flat solid magenta background, no other objects, high contrast between the mark and the background" },
+    { "id": "emphasis-marks-03", "kind": "still", "file": "pieces/emphasis-marks-03.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a bold hand-drawn check mark, thick rough stroke, vivid green, centered on a plain flat solid magenta background, no other objects, high contrast between the mark and the background" },
+    { "id": "emphasis-marks-04", "kind": "still", "file": "pieces/emphasis-marks-04.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a bold hand-drawn cross mark made of two thick strokes, bright red, centered on a plain flat solid magenta background, no other objects, high contrast between the mark and the background" },
+    { "id": "emphasis-marks-05", "kind": "still", "file": "pieces/emphasis-marks-05.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a scatter of five four-pointed sparkle stars of different sizes, flat bright yellow fill with a thin black outline, centered on a plain flat solid magenta background, no other objects, high contrast between the sparkles and the background" },
+    { "id": "emphasis-marks-06", "kind": "still", "file": "pieces/emphasis-marks-06.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a burst of radiating straight speed lines forming a ring with an empty center, thin black lines of varying length, centered on a plain flat solid magenta background, no other objects, high contrast between the lines and the background" },
+    { "id": "emphasis-marks-07", "kind": "still", "file": "pieces/emphasis-marks-07.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a spiky starburst shape like a price tag badge, solid bright red fill with a thick white outline, empty inside, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the badge and the background" },
+    { "id": "emphasis-marks-08", "kind": "still", "file": "pieces/emphasis-marks-08.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "three short curved motion lines suggesting shaking, thick black strokes, arranged in a fan, centered on a plain flat solid magenta background, no other objects, high contrast between the lines and the background" },
+    { "id": "emphasis-marks-09", "kind": "still", "file": "pieces/emphasis-marks-09.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a bold hand-drawn double exclamation mark side by side, thick flat bright red fill with a thick black outline, centered on a plain flat solid magenta background, no other objects, high contrast between the marks and the background" },
+    { "id": "emphasis-marks-10", "kind": "still", "file": "pieces/emphasis-marks-10.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a rough hand-drawn spiral scribble used to scratch something out, thick black stroke, centered on a plain flat solid magenta background, no other objects, high contrast between the scribble and the background" },
+    { "id": "emphasis-marks-11", "kind": "still", "file": "pieces/emphasis-marks-11.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a hand-drawn heart outline, thick uneven stroke, bright pink, hollow center, centered on a plain flat solid magenta background, no other objects, high contrast between the heart and the background" },
+    { "id": "emphasis-marks-12", "kind": "still", "file": "pieces/emphasis-marks-12.png", "alpha": true, "useTags": ["強調", "透過"],
+      "prompt": "a bold upward pointing triangle and a bold downward pointing triangle side by side, flat fills, the upward one vivid green and the downward one bright red, centered on a plain flat solid magenta background, no other objects, high contrast between the triangles and the background" }
+  ]
+}

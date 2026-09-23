@@ -1,0 +1,38 @@
+{
+  "slug": "paper-tape",
+  "title": "紙とテープの切れ端",
+  "description": "マスキングテープ、破った紙、付箋、クリップ。画面に何かを貼り付けたように見せるための素材です。そのまま重ねられる透過PNGです。",
+  "audience": ["editor", "thumbnail"],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "やわらかい拡散光。紙の厚みが分かる程度の陰影のみ",
+    "colorTemp": "生成りとくすんだパステル。彩度は抑える",
+    "framing": "正方形の中央に1つ。少し傾けて置く",
+    "texture": "紙の繊維とテープのつや。端は破れたまま残す"
+  },
+  "generator": { "service": "higgsfield", "model": "nano_banana_pro", "version": "2026-08" },
+  "promptPublic": true,
+  "pieces": [
+    { "id": "paper-tape-01", "kind": "still", "file": "pieces/paper-tape-01.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a single short strip of beige masking tape torn at both ends, slightly tilted, soft diffused light, paper fiber texture, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the tape and the background" },
+    { "id": "paper-tape-02", "kind": "still", "file": "pieces/paper-tape-02.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a single strip of pale mint washi tape with a subtle pattern, torn at both ends, slightly tilted, soft diffused light, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the tape and the background" },
+    { "id": "paper-tape-03", "kind": "still", "file": "pieces/paper-tape-03.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "two strips of dull yellow tape crossed in an X shape, torn ends, soft diffused light, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the tape and the background" },
+    { "id": "paper-tape-04", "kind": "still", "file": "pieces/paper-tape-04.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a square sticky note in pale yellow with a slight curl at one corner, blank surface, soft diffused light, slightly tilted, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the note and the background" },
+    { "id": "paper-tape-05", "kind": "still", "file": "pieces/paper-tape-05.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a square sticky note in pale blue with a slight curl at one corner, blank surface, soft diffused light, slightly tilted, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the note and the background" },
+    { "id": "paper-tape-06", "kind": "still", "file": "pieces/paper-tape-06.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a torn scrap of off white paper with ragged edges on all four sides, blank surface, soft diffused light, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the paper and the background" },
+    { "id": "paper-tape-07", "kind": "still", "file": "pieces/paper-tape-07.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a horizontal strip torn from a sheet of lined notebook paper, ragged top and bottom edges, blank ruled surface, soft diffused light, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the paper and the background" },
+    { "id": "paper-tape-08", "kind": "still", "file": "pieces/paper-tape-08.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a silver metal paper clip seen from the front, soft diffused light with a gentle specular highlight, slightly tilted, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the clip and the background" },
+    { "id": "paper-tape-09", "kind": "still", "file": "pieces/paper-tape-09.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a brass push pin seen from the front with its head facing the viewer, soft diffused light, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the pin and the background" },
+    { "id": "paper-tape-10", "kind": "still", "file": "pieces/paper-tape-10.png", "alpha": true, "useTags": ["貼り込み", "透過"],
+      "prompt": "a small blank instant photo frame with a wide bottom border, off white, soft diffused light, slightly tilted, centered on a plain flat solid magenta background, no text, no other objects, high contrast between the frame and the background" }
+  ]
+}

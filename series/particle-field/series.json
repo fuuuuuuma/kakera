@@ -1,0 +1,92 @@
+{
+  "slug": "particle-field",
+  "title": "粒子の背景",
+  "description": "深い紺黒の空間に淡い寒色粒子が漂う、奥行きのある抽象背景。控えめな輝きと被写界深度で統一しています。",
+  "audience": [
+    "editor",
+    "thumbnail"
+  ],
+  "creator": "@fuuuuuuma",
+  "license": "kakera-free",
+  "tone": {
+    "light": "柔らかな寒色逆光。輝点は白飛びさせない",
+    "colorTemp": "6200Kの寒色",
+    "framing": "余白位置を変えた地平線のないワイド粒子場",
+    "texture": "微細な発光粒子、奥行きに応じたシャープさ、薄い霞"
+  },
+  "generator": {
+    "service": "openai-imagegen",
+    "model": "built-in-imagegen",
+    "version": "2026-09"
+  },
+  "promptPublic": true,
+  "pieces": [
+    {
+      "id": "particle-field-01",
+      "kind": "still",
+      "file": "pieces/particle-field-01.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 particle background for video editing and thumbnails\nPrimary request: thousands of tiny cool-white and pale-cyan particles drifting in deep space, with a gentle dense cluster along the lower right\nScene/backdrop: seamless deep navy-black abstract space with no starscape or recognizable environment\nStyle/medium: premium macro particle photography, physically plausible depth of field, photorealistic\nComposition/framing: wide landscape macro field, strong depth layers, large dark negative space on the upper left, no horizon\nLighting/mood: soft cool backlight with restrained glints, spacious, calm, and sophisticated\nColor palette: cool white, pale cyan, deep navy black\nMaterials/textures: tiny dustlike luminous particles, varied sharpness by depth, subtle atmospheric haze\nConstraints: consistent 6200K cool color temperature, crisp foreground particles and smooth distant blur, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, objects, galaxies, planets, constellations, fireworks, snowflakes, bubbles, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, glitter overload, excessive bloom, dense visual noise"
+    },
+    {
+      "id": "particle-field-02",
+      "kind": "still",
+      "file": "pieces/particle-field-02.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 particle background for video editing and thumbnails\nPrimary request: thousands of tiny cool-white and pale-cyan particles forming a broad diagonal current from upper left to lower right\nScene/backdrop: seamless deep navy-black abstract space with no starscape or recognizable environment\nStyle/medium: premium macro particle photography, physically plausible depth of field, photorealistic\nComposition/framing: wide landscape macro field, diagonal flow with calm dark corners, no horizon\nLighting/mood: soft cool backlight with restrained glints, spacious, calm, and sophisticated\nColor palette: cool white, pale cyan, deep navy black\nMaterials/textures: tiny dustlike luminous particles, varied sharpness by depth, subtle atmospheric haze\nConstraints: consistent 6200K cool color temperature, crisp foreground particles and smooth distant blur, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, objects, galaxies, planets, constellations, fireworks, snowflakes, bubbles, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, glitter overload, excessive bloom, dense visual noise"
+    },
+    {
+      "id": "particle-field-03",
+      "kind": "still",
+      "file": "pieces/particle-field-03.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 particle background for video editing and thumbnails\nPrimary request: thousands of tiny cool-white and pale-cyan particles gathering into a loose luminous arc around an empty dark center\nScene/backdrop: seamless deep navy-black abstract space with no starscape or recognizable environment\nStyle/medium: premium macro particle photography, physically plausible depth of field, photorealistic\nComposition/framing: wide landscape macro field, arc across the upper half, clean center, no horizon\nLighting/mood: soft cool backlight with restrained glints, spacious, calm, and sophisticated\nColor palette: cool white, pale cyan, deep navy black\nMaterials/textures: tiny dustlike luminous particles, varied sharpness by depth, subtle atmospheric haze\nConstraints: consistent 6200K cool color temperature, crisp foreground particles and smooth distant blur, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, objects, galaxies, planets, constellations, fireworks, snowflakes, bubbles, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, glitter overload, excessive bloom, dense visual noise"
+    },
+    {
+      "id": "particle-field-04",
+      "kind": "still",
+      "file": "pieces/particle-field-04.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 particle background for video editing and thumbnails\nPrimary request: thousands of tiny cool-white and pale-cyan particles distributed as a low atmospheric band across the bottom third\nScene/backdrop: seamless deep navy-black abstract space with no starscape or recognizable environment\nStyle/medium: premium macro particle photography, physically plausible depth of field, photorealistic\nComposition/framing: wide landscape macro field, expansive dark negative space above, no horizon\nLighting/mood: soft cool backlight with restrained glints, spacious, calm, and sophisticated\nColor palette: cool white, pale cyan, deep navy black\nMaterials/textures: tiny dustlike luminous particles, varied sharpness by depth, subtle atmospheric haze\nConstraints: consistent 6200K cool color temperature, crisp foreground particles and smooth distant blur, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, objects, galaxies, planets, constellations, fireworks, snowflakes, bubbles, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, glitter overload, excessive bloom, dense visual noise"
+    },
+    {
+      "id": "particle-field-05",
+      "kind": "still",
+      "file": "pieces/particle-field-05.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 particle background for video editing and thumbnails\nPrimary request: thousands of tiny cool-white and pale-cyan particles forming two soft depth layers that cross near the right third\nScene/backdrop: seamless deep navy-black abstract space with no starscape or recognizable environment\nStyle/medium: premium macro particle photography, physically plausible depth of field, photorealistic\nComposition/framing: wide landscape macro field, crossing layers on the right, open dark space on the left, no horizon\nLighting/mood: soft cool backlight with restrained glints, spacious, calm, and sophisticated\nColor palette: cool white, pale cyan, deep navy black\nMaterials/textures: tiny dustlike luminous particles, varied sharpness by depth, subtle atmospheric haze\nConstraints: consistent 6200K cool color temperature, crisp foreground particles and smooth distant blur, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, objects, galaxies, planets, constellations, fireworks, snowflakes, bubbles, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, glitter overload, excessive bloom, dense visual noise"
+    },
+    {
+      "id": "particle-field-06",
+      "kind": "still",
+      "file": "pieces/particle-field-06.png",
+      "alpha": false,
+      "useTags": [
+        "背景",
+        "場面転換"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: cinematic 16:9 particle background for video editing and thumbnails\nPrimary request: thousands of tiny cool-white and pale-cyan particles evenly dispersed with a subtle tunnel-like depth gradient but no central vortex\nScene/backdrop: seamless deep navy-black abstract space with no starscape or recognizable environment\nStyle/medium: premium macro particle photography, physically plausible depth of field, photorealistic\nComposition/framing: wide landscape macro field, balanced full-frame depth, quiet center suitable for text, no horizon\nLighting/mood: soft cool backlight with restrained glints, spacious, calm, and sophisticated\nColor palette: cool white, pale cyan, deep navy black\nMaterials/textures: tiny dustlike luminous particles, varied sharpness by depth, subtle atmospheric haze\nConstraints: consistent 6200K cool color temperature, crisp foreground particles and smooth distant blur, sharp enough for 2048x1152 delivery, opaque image\nAvoid: people, faces, human figures, hands, objects, galaxies, planets, constellations, fireworks, snowflakes, bubbles, text, letters, numbers, logos, brands, watermark, signatures, borders, frames, collage, star shapes, glitter overload, excessive bloom, dense visual noise"
+    }
+  ]
+}
+
